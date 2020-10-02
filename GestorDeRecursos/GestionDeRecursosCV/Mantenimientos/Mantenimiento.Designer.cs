@@ -28,105 +28,105 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
-            this.label1 = new System.Windows.Forms.Label();
-            this.panel5 = new System.Windows.Forms.Panel();
+            this.Pnl_General = new System.Windows.Forms.Panel();
+            this.Tlp_General = new System.Windows.Forms.TableLayoutPanel();
+            this.Pnl_Titulo = new System.Windows.Forms.Panel();
+            this.Tlp_Titulo = new System.Windows.Forms.TableLayoutPanel();
+            this.Pnl_Icono = new System.Windows.Forms.Panel();
+            this.Lbl_Mantenimiento = new System.Windows.Forms.Label();
+            this.Pnl_Contenido = new System.Windows.Forms.Panel();
             this.navegador1 = new CapaDeDiseno.Navegador();
-            this.panel1.SuspendLayout();
-            this.tableLayoutPanel1.SuspendLayout();
-            this.panel2.SuspendLayout();
-            this.panel3.SuspendLayout();
-            this.tableLayoutPanel2.SuspendLayout();
+            this.Pnl_General.SuspendLayout();
+            this.Tlp_General.SuspendLayout();
+            this.Pnl_Titulo.SuspendLayout();
+            this.Tlp_Titulo.SuspendLayout();
+            this.Pnl_Contenido.SuspendLayout();
             this.SuspendLayout();
             // 
-            // panel1
+            // Pnl_General
             // 
-            this.panel1.BackColor = System.Drawing.Color.White;
-            this.panel1.Controls.Add(this.tableLayoutPanel1);
-            this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(993, 954);
-            this.panel1.TabIndex = 0;
+            this.Pnl_General.BackColor = System.Drawing.Color.White;
+            this.Pnl_General.Controls.Add(this.Tlp_General);
+            this.Pnl_General.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Pnl_General.Location = new System.Drawing.Point(0, 0);
+            this.Pnl_General.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Pnl_General.Name = "Pnl_General";
+            this.Pnl_General.Size = new System.Drawing.Size(993, 749);
+            this.Pnl_General.TabIndex = 0;
             // 
-            // tableLayoutPanel1
+            // Tlp_General
             // 
-            this.tableLayoutPanel1.ColumnCount = 1;
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel1.Controls.Add(this.panel2, 0, 0);
-            this.tableLayoutPanel1.Controls.Add(this.panel3, 0, 1);
-            this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
-            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.tableLayoutPanel1.Name = "tableLayoutPanel1";
-            this.tableLayoutPanel1.RowCount = 2;
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 90F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(993, 954);
-            this.tableLayoutPanel1.TabIndex = 0;
+            this.Tlp_General.ColumnCount = 1;
+            this.Tlp_General.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.Tlp_General.Controls.Add(this.Pnl_Titulo, 0, 0);
+            this.Tlp_General.Controls.Add(this.Pnl_Contenido, 0, 1);
+            this.Tlp_General.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Tlp_General.Location = new System.Drawing.Point(0, 0);
+            this.Tlp_General.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Tlp_General.Name = "Tlp_General";
+            this.Tlp_General.RowCount = 2;
+            this.Tlp_General.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
+            this.Tlp_General.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 90F));
+            this.Tlp_General.Size = new System.Drawing.Size(993, 749);
+            this.Tlp_General.TabIndex = 0;
             // 
-            // panel2
+            // Pnl_Titulo
             // 
-            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(207)))), ((int)(((byte)(232)))));
-            this.panel2.Controls.Add(this.tableLayoutPanel2);
-            this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(3, 4);
-            this.panel2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(987, 87);
-            this.panel2.TabIndex = 0;
+            this.Pnl_Titulo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(207)))), ((int)(((byte)(232)))));
+            this.Pnl_Titulo.Controls.Add(this.Tlp_Titulo);
+            this.Pnl_Titulo.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Pnl_Titulo.Location = new System.Drawing.Point(3, 4);
+            this.Pnl_Titulo.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Pnl_Titulo.Name = "Pnl_Titulo";
+            this.Pnl_Titulo.Size = new System.Drawing.Size(987, 66);
+            this.Pnl_Titulo.TabIndex = 0;
             // 
-            // panel3
+            // Tlp_Titulo
             // 
-            this.panel3.Controls.Add(this.navegador1);
-            this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel3.Location = new System.Drawing.Point(3, 99);
-            this.panel3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(987, 851);
-            this.panel3.TabIndex = 1;
+            this.Tlp_Titulo.ColumnCount = 2;
+            this.Tlp_Titulo.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 80F));
+            this.Tlp_Titulo.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.Tlp_Titulo.Controls.Add(this.Pnl_Icono, 1, 0);
+            this.Tlp_Titulo.Controls.Add(this.Lbl_Mantenimiento, 0, 0);
+            this.Tlp_Titulo.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Tlp_Titulo.Location = new System.Drawing.Point(0, 0);
+            this.Tlp_Titulo.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Tlp_Titulo.Name = "Tlp_Titulo";
+            this.Tlp_Titulo.RowCount = 1;
+            this.Tlp_Titulo.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.Tlp_Titulo.Size = new System.Drawing.Size(987, 66);
+            this.Tlp_Titulo.TabIndex = 0;
             // 
-            // tableLayoutPanel2
+            // Pnl_Icono
             // 
-            this.tableLayoutPanel2.ColumnCount = 2;
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 80F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel2.Controls.Add(this.panel5, 1, 0);
-            this.tableLayoutPanel2.Controls.Add(this.label1, 0, 0);
-            this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel2.Location = new System.Drawing.Point(0, 0);
-            this.tableLayoutPanel2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.tableLayoutPanel2.Name = "tableLayoutPanel2";
-            this.tableLayoutPanel2.RowCount = 1;
-            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(987, 87);
-            this.tableLayoutPanel2.TabIndex = 0;
+            this.Pnl_Icono.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources.productivity;
+            this.Pnl_Icono.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.Pnl_Icono.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Pnl_Icono.Location = new System.Drawing.Point(792, 4);
+            this.Pnl_Icono.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Pnl_Icono.Name = "Pnl_Icono";
+            this.Pnl_Icono.Size = new System.Drawing.Size(192, 58);
+            this.Pnl_Icono.TabIndex = 1;
             // 
-            // label1
+            // Lbl_Mantenimiento
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Century Gothic", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(3, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(290, 44);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Mantenimeinto";
+            this.Lbl_Mantenimiento.AutoSize = true;
+            this.Lbl_Mantenimiento.Font = new System.Drawing.Font("Century Gothic", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Lbl_Mantenimiento.Location = new System.Drawing.Point(3, 0);
+            this.Lbl_Mantenimiento.Name = "Lbl_Mantenimiento";
+            this.Lbl_Mantenimiento.Size = new System.Drawing.Size(290, 44);
+            this.Lbl_Mantenimiento.TabIndex = 0;
+            this.Lbl_Mantenimiento.Text = "Mantenimiento";
             // 
-            // panel5
+            // Pnl_Contenido
             // 
-            this.panel5.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources.productivity;
-            this.panel5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.panel5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel5.Location = new System.Drawing.Point(792, 4);
-            this.panel5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(192, 79);
-            this.panel5.TabIndex = 1;
+            this.Pnl_Contenido.Controls.Add(this.navegador1);
+            this.Pnl_Contenido.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Pnl_Contenido.Location = new System.Drawing.Point(3, 78);
+            this.Pnl_Contenido.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Pnl_Contenido.Name = "Pnl_Contenido";
+            this.Pnl_Contenido.Size = new System.Drawing.Size(987, 667);
+            this.Pnl_Contenido.TabIndex = 1;
             // 
             // navegador1
             // 
@@ -135,38 +135,38 @@
             this.navegador1.Location = new System.Drawing.Point(0, 0);
             this.navegador1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.navegador1.Name = "navegador1";
-            this.navegador1.Size = new System.Drawing.Size(987, 851);
+            this.navegador1.Size = new System.Drawing.Size(987, 667);
             this.navegador1.TabIndex = 0;
             // 
             // Mantenimiento
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(993, 954);
-            this.Controls.Add(this.panel1);
+            this.ClientSize = new System.Drawing.Size(993, 749);
+            this.Controls.Add(this.Pnl_General);
             this.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Mantenimiento";
-            this.Text = "Mantenimiento";
-            this.panel1.ResumeLayout(false);
-            this.tableLayoutPanel1.ResumeLayout(false);
-            this.panel2.ResumeLayout(false);
-            this.panel3.ResumeLayout(false);
-            this.tableLayoutPanel2.ResumeLayout(false);
-            this.tableLayoutPanel2.PerformLayout();
+            this.Text = "Frm_Mantenimiento";
+            this.Pnl_General.ResumeLayout(false);
+            this.Tlp_General.ResumeLayout(false);
+            this.Pnl_Titulo.ResumeLayout(false);
+            this.Tlp_Titulo.ResumeLayout(false);
+            this.Tlp_Titulo.PerformLayout();
+            this.Pnl_Contenido.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
-        private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel2;
-        private System.Windows.Forms.Panel panel5;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Panel Pnl_General;
+        private System.Windows.Forms.TableLayoutPanel Tlp_General;
+        private System.Windows.Forms.Panel Pnl_Titulo;
+        private System.Windows.Forms.TableLayoutPanel Tlp_Titulo;
+        private System.Windows.Forms.Panel Pnl_Icono;
+        private System.Windows.Forms.Label Lbl_Mantenimiento;
+        private System.Windows.Forms.Panel Pnl_Contenido;
         private CapaDeDiseno.Navegador navegador1;
     }
 }

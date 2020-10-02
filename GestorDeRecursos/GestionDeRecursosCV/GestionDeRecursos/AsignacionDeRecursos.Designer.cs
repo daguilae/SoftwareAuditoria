@@ -1,6 +1,6 @@
 ﻿namespace GestionDeRecursosCV.GestionDeRecursos
 {
-    partial class AsignacionDeRecursos
+    partial class Frm_AsignacionDeRecursos
     {
         /// <summary>
         /// Required designer variable.
@@ -28,359 +28,359 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
-            this.label1 = new System.Windows.Forms.Label();
-            this.panel5 = new System.Windows.Forms.Panel();
-            this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
-            this.panel6 = new System.Windows.Forms.Panel();
-            this.tableLayoutPanel4 = new System.Windows.Forms.TableLayoutPanel();
-            this.tableLayoutPanel5 = new System.Windows.Forms.TableLayoutPanel();
-            this.panel11 = new System.Windows.Forms.Panel();
-            this.panel10 = new System.Windows.Forms.Panel();
-            this.panel9 = new System.Windows.Forms.Panel();
-            this.panel8 = new System.Windows.Forms.Panel();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.dataGridView2 = new System.Windows.Forms.DataGridView();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.panel4 = new System.Windows.Forms.Panel();
-            this.label2 = new System.Windows.Forms.Label();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.tableLayoutPanel6 = new System.Windows.Forms.TableLayoutPanel();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.panel1.SuspendLayout();
-            this.tableLayoutPanel1.SuspendLayout();
-            this.panel2.SuspendLayout();
-            this.tableLayoutPanel2.SuspendLayout();
-            this.tableLayoutPanel3.SuspendLayout();
-            this.panel6.SuspendLayout();
-            this.tableLayoutPanel4.SuspendLayout();
-            this.tableLayoutPanel5.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            this.panel4.SuspendLayout();
-            this.panel3.SuspendLayout();
-            this.tableLayoutPanel6.SuspendLayout();
+            this.Pnl_General = new System.Windows.Forms.Panel();
+            this.Tlp_General = new System.Windows.Forms.TableLayoutPanel();
+            this.Pnl_Titulo = new System.Windows.Forms.Panel();
+            this.Tlp_Titulo = new System.Windows.Forms.TableLayoutPanel();
+            this.Pnl_Icono = new System.Windows.Forms.Panel();
+            this.Lbl_AsignacionRecursos = new System.Windows.Forms.Label();
+            this.Pnl_Contenido = new System.Windows.Forms.Panel();
+            this.Tlp_Contenido = new System.Windows.Forms.TableLayoutPanel();
+            this.Pnl_Evaluacion = new System.Windows.Forms.Panel();
+            this.Tlp_Evaluacion = new System.Windows.Forms.TableLayoutPanel();
+            this.Lbl_Evaluacion = new System.Windows.Forms.Label();
+            this.Cbo_Evaluacion = new System.Windows.Forms.ComboBox();
+            this.Pnl_Seleccion = new System.Windows.Forms.Panel();
+            this.Tlp_Seleccion = new System.Windows.Forms.TableLayoutPanel();
+            this.Dgv_Recursos = new System.Windows.Forms.DataGridView();
+            this.Dgv_RecursosAsignados = new System.Windows.Forms.DataGridView();
+            this.Tlp_Flechas = new System.Windows.Forms.TableLayoutPanel();
+            this.Pnl_FlechaIzquierda = new System.Windows.Forms.Panel();
+            this.Pnl_FlechaArriba = new System.Windows.Forms.Panel();
+            this.Pnl_FlechaAbajo = new System.Windows.Forms.Panel();
+            this.Pnl_BoteBasura = new System.Windows.Forms.Panel();
+            this.Pnl_FlechaDerecha = new System.Windows.Forms.Panel();
+            this.Pnl_General.SuspendLayout();
+            this.Tlp_General.SuspendLayout();
+            this.Pnl_Titulo.SuspendLayout();
+            this.Tlp_Titulo.SuspendLayout();
+            this.Pnl_Contenido.SuspendLayout();
+            this.Tlp_Contenido.SuspendLayout();
+            this.Pnl_Evaluacion.SuspendLayout();
+            this.Tlp_Evaluacion.SuspendLayout();
+            this.Pnl_Seleccion.SuspendLayout();
+            this.Tlp_Seleccion.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.Dgv_Recursos)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Dgv_RecursosAsignados)).BeginInit();
+            this.Tlp_Flechas.SuspendLayout();
             this.SuspendLayout();
             // 
-            // panel1
+            // Pnl_General
             // 
-            this.panel1.BackColor = System.Drawing.Color.White;
-            this.panel1.Controls.Add(this.tableLayoutPanel1);
-            this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(776, 615);
-            this.panel1.TabIndex = 0;
+            this.Pnl_General.BackColor = System.Drawing.Color.White;
+            this.Pnl_General.Controls.Add(this.Tlp_General);
+            this.Pnl_General.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Pnl_General.Location = new System.Drawing.Point(0, 0);
+            this.Pnl_General.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Pnl_General.Name = "Pnl_General";
+            this.Pnl_General.Size = new System.Drawing.Size(776, 615);
+            this.Pnl_General.TabIndex = 0;
             // 
-            // tableLayoutPanel1
+            // Tlp_General
             // 
-            this.tableLayoutPanel1.ColumnCount = 1;
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel1.Controls.Add(this.panel2, 0, 0);
-            this.tableLayoutPanel1.Controls.Add(this.panel3, 0, 1);
-            this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
-            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
-            this.tableLayoutPanel1.Name = "tableLayoutPanel1";
-            this.tableLayoutPanel1.RowCount = 2;
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 90F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(776, 615);
-            this.tableLayoutPanel1.TabIndex = 1;
+            this.Tlp_General.ColumnCount = 1;
+            this.Tlp_General.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.Tlp_General.Controls.Add(this.Pnl_Titulo, 0, 0);
+            this.Tlp_General.Controls.Add(this.Pnl_Contenido, 0, 1);
+            this.Tlp_General.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Tlp_General.Location = new System.Drawing.Point(0, 0);
+            this.Tlp_General.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
+            this.Tlp_General.Name = "Tlp_General";
+            this.Tlp_General.RowCount = 2;
+            this.Tlp_General.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
+            this.Tlp_General.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 90F));
+            this.Tlp_General.Size = new System.Drawing.Size(776, 615);
+            this.Tlp_General.TabIndex = 1;
             // 
-            // panel2
+            // Pnl_Titulo
             // 
-            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(207)))), ((int)(((byte)(232)))));
-            this.panel2.Controls.Add(this.tableLayoutPanel2);
-            this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(3, 5);
-            this.panel2.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(770, 51);
-            this.panel2.TabIndex = 0;
+            this.Pnl_Titulo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(207)))), ((int)(((byte)(232)))));
+            this.Pnl_Titulo.Controls.Add(this.Tlp_Titulo);
+            this.Pnl_Titulo.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Pnl_Titulo.Location = new System.Drawing.Point(3, 5);
+            this.Pnl_Titulo.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
+            this.Pnl_Titulo.Name = "Pnl_Titulo";
+            this.Pnl_Titulo.Size = new System.Drawing.Size(770, 51);
+            this.Pnl_Titulo.TabIndex = 0;
             // 
-            // tableLayoutPanel2
+            // Tlp_Titulo
             // 
-            this.tableLayoutPanel2.ColumnCount = 2;
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 80F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel2.Controls.Add(this.panel5, 1, 0);
-            this.tableLayoutPanel2.Controls.Add(this.label1, 0, 0);
-            this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel2.Location = new System.Drawing.Point(0, 0);
-            this.tableLayoutPanel2.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
-            this.tableLayoutPanel2.Name = "tableLayoutPanel2";
-            this.tableLayoutPanel2.RowCount = 1;
-            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(770, 51);
-            this.tableLayoutPanel2.TabIndex = 0;
+            this.Tlp_Titulo.ColumnCount = 2;
+            this.Tlp_Titulo.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 80F));
+            this.Tlp_Titulo.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.Tlp_Titulo.Controls.Add(this.Pnl_Icono, 1, 0);
+            this.Tlp_Titulo.Controls.Add(this.Lbl_AsignacionRecursos, 0, 0);
+            this.Tlp_Titulo.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Tlp_Titulo.Location = new System.Drawing.Point(0, 0);
+            this.Tlp_Titulo.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
+            this.Tlp_Titulo.Name = "Tlp_Titulo";
+            this.Tlp_Titulo.RowCount = 1;
+            this.Tlp_Titulo.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.Tlp_Titulo.Size = new System.Drawing.Size(770, 51);
+            this.Tlp_Titulo.TabIndex = 0;
             // 
-            // label1
+            // Pnl_Icono
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Century Gothic", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(3, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(448, 44);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Asignacion de Recursos";
+            this.Pnl_Icono.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources.recurso;
+            this.Pnl_Icono.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.Pnl_Icono.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Pnl_Icono.Location = new System.Drawing.Point(619, 5);
+            this.Pnl_Icono.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
+            this.Pnl_Icono.Name = "Pnl_Icono";
+            this.Pnl_Icono.Size = new System.Drawing.Size(148, 41);
+            this.Pnl_Icono.TabIndex = 1;
             // 
-            // panel5
+            // Lbl_AsignacionRecursos
             // 
-            this.panel5.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources.recurso;
-            this.panel5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.panel5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel5.Location = new System.Drawing.Point(619, 5);
-            this.panel5.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
-            this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(148, 41);
-            this.panel5.TabIndex = 1;
+            this.Lbl_AsignacionRecursos.AutoSize = true;
+            this.Lbl_AsignacionRecursos.Font = new System.Drawing.Font("Century Gothic", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Lbl_AsignacionRecursos.Location = new System.Drawing.Point(3, 0);
+            this.Lbl_AsignacionRecursos.Name = "Lbl_AsignacionRecursos";
+            this.Lbl_AsignacionRecursos.Size = new System.Drawing.Size(448, 44);
+            this.Lbl_AsignacionRecursos.TabIndex = 0;
+            this.Lbl_AsignacionRecursos.Text = "Asignación de Recursos";
             // 
-            // tableLayoutPanel3
+            // Pnl_Contenido
             // 
-            this.tableLayoutPanel3.ColumnCount = 1;
-            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel3.Controls.Add(this.panel4, 0, 0);
-            this.tableLayoutPanel3.Controls.Add(this.panel6, 0, 1);
-            this.tableLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel3.Location = new System.Drawing.Point(0, 0);
-            this.tableLayoutPanel3.Name = "tableLayoutPanel3";
-            this.tableLayoutPanel3.RowCount = 2;
-            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15F));
-            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 85F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(770, 544);
-            this.tableLayoutPanel3.TabIndex = 3;
+            this.Pnl_Contenido.Controls.Add(this.Tlp_Contenido);
+            this.Pnl_Contenido.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Pnl_Contenido.Location = new System.Drawing.Point(3, 66);
+            this.Pnl_Contenido.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
+            this.Pnl_Contenido.Name = "Pnl_Contenido";
+            this.Pnl_Contenido.Size = new System.Drawing.Size(770, 544);
+            this.Pnl_Contenido.TabIndex = 1;
             // 
-            // panel6
+            // Tlp_Contenido
             // 
-            this.panel6.Controls.Add(this.tableLayoutPanel4);
-            this.panel6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel6.Location = new System.Drawing.Point(3, 84);
-            this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(764, 457);
-            this.panel6.TabIndex = 1;
+            this.Tlp_Contenido.ColumnCount = 1;
+            this.Tlp_Contenido.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.Tlp_Contenido.Controls.Add(this.Pnl_Evaluacion, 0, 0);
+            this.Tlp_Contenido.Controls.Add(this.Pnl_Seleccion, 0, 1);
+            this.Tlp_Contenido.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Tlp_Contenido.Location = new System.Drawing.Point(0, 0);
+            this.Tlp_Contenido.Name = "Tlp_Contenido";
+            this.Tlp_Contenido.RowCount = 2;
+            this.Tlp_Contenido.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15F));
+            this.Tlp_Contenido.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 85F));
+            this.Tlp_Contenido.Size = new System.Drawing.Size(770, 544);
+            this.Tlp_Contenido.TabIndex = 3;
             // 
-            // tableLayoutPanel4
+            // Pnl_Evaluacion
             // 
-            this.tableLayoutPanel4.ColumnCount = 3;
-            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 45F));
-            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 10F));
-            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 45F));
-            this.tableLayoutPanel4.Controls.Add(this.dataGridView1, 0, 0);
-            this.tableLayoutPanel4.Controls.Add(this.dataGridView2, 2, 0);
-            this.tableLayoutPanel4.Controls.Add(this.tableLayoutPanel5, 1, 0);
-            this.tableLayoutPanel4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel4.Location = new System.Drawing.Point(0, 0);
-            this.tableLayoutPanel4.Name = "tableLayoutPanel4";
-            this.tableLayoutPanel4.RowCount = 1;
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel4.Size = new System.Drawing.Size(764, 457);
-            this.tableLayoutPanel4.TabIndex = 1;
+            this.Pnl_Evaluacion.Controls.Add(this.Tlp_Evaluacion);
+            this.Pnl_Evaluacion.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Pnl_Evaluacion.Location = new System.Drawing.Point(3, 3);
+            this.Pnl_Evaluacion.Name = "Pnl_Evaluacion";
+            this.Pnl_Evaluacion.Size = new System.Drawing.Size(764, 75);
+            this.Pnl_Evaluacion.TabIndex = 0;
             // 
-            // tableLayoutPanel5
+            // Tlp_Evaluacion
             // 
-            this.tableLayoutPanel5.ColumnCount = 1;
-            this.tableLayoutPanel5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel5.Controls.Add(this.panel7, 0, 1);
-            this.tableLayoutPanel5.Controls.Add(this.panel8, 0, 2);
-            this.tableLayoutPanel5.Controls.Add(this.panel9, 0, 3);
-            this.tableLayoutPanel5.Controls.Add(this.panel10, 0, 4);
-            this.tableLayoutPanel5.Controls.Add(this.panel11, 0, 0);
-            this.tableLayoutPanel5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel5.Location = new System.Drawing.Point(346, 3);
-            this.tableLayoutPanel5.Name = "tableLayoutPanel5";
-            this.tableLayoutPanel5.RowCount = 5;
-            this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel5.Size = new System.Drawing.Size(70, 451);
-            this.tableLayoutPanel5.TabIndex = 2;
+            this.Tlp_Evaluacion.ColumnCount = 2;
+            this.Tlp_Evaluacion.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.Tlp_Evaluacion.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 80F));
+            this.Tlp_Evaluacion.Controls.Add(this.Lbl_Evaluacion, 0, 0);
+            this.Tlp_Evaluacion.Controls.Add(this.Cbo_Evaluacion, 1, 0);
+            this.Tlp_Evaluacion.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Tlp_Evaluacion.Location = new System.Drawing.Point(0, 0);
+            this.Tlp_Evaluacion.Name = "Tlp_Evaluacion";
+            this.Tlp_Evaluacion.RowCount = 1;
+            this.Tlp_Evaluacion.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.Tlp_Evaluacion.Size = new System.Drawing.Size(764, 75);
+            this.Tlp_Evaluacion.TabIndex = 3;
             // 
-            // panel11
+            // Lbl_Evaluacion
             // 
-            this.panel11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(212)))), ((int)(((byte)(225)))));
-            this.panel11.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources._029_right_arrow_12;
-            this.panel11.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.panel11.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel11.Location = new System.Drawing.Point(3, 3);
-            this.panel11.Name = "panel11";
-            this.panel11.Size = new System.Drawing.Size(64, 84);
-            this.panel11.TabIndex = 4;
+            this.Lbl_Evaluacion.AutoSize = true;
+            this.Lbl_Evaluacion.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Lbl_Evaluacion.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Lbl_Evaluacion.Location = new System.Drawing.Point(3, 0);
+            this.Lbl_Evaluacion.Name = "Lbl_Evaluacion";
+            this.Lbl_Evaluacion.Size = new System.Drawing.Size(146, 75);
+            this.Lbl_Evaluacion.TabIndex = 1;
+            this.Lbl_Evaluacion.Text = "Evaluación:";
             // 
-            // panel10
+            // Cbo_Evaluacion
             // 
-            this.panel10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(212)))), ((int)(((byte)(225)))));
-            this.panel10.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources.bote_de_basura;
-            this.panel10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.panel10.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel10.Location = new System.Drawing.Point(3, 363);
-            this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(64, 85);
-            this.panel10.TabIndex = 3;
+            this.Cbo_Evaluacion.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Cbo_Evaluacion.FormattingEnabled = true;
+            this.Cbo_Evaluacion.Location = new System.Drawing.Point(155, 3);
+            this.Cbo_Evaluacion.Name = "Cbo_Evaluacion";
+            this.Cbo_Evaluacion.Size = new System.Drawing.Size(606, 25);
+            this.Cbo_Evaluacion.TabIndex = 2;
             // 
-            // panel9
+            // Pnl_Seleccion
             // 
-            this.panel9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(212)))), ((int)(((byte)(225)))));
-            this.panel9.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources._059_down_arrow_9;
-            this.panel9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.panel9.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel9.Location = new System.Drawing.Point(3, 273);
-            this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(64, 84);
-            this.panel9.TabIndex = 2;
+            this.Pnl_Seleccion.Controls.Add(this.Tlp_Seleccion);
+            this.Pnl_Seleccion.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Pnl_Seleccion.Location = new System.Drawing.Point(3, 84);
+            this.Pnl_Seleccion.Name = "Pnl_Seleccion";
+            this.Pnl_Seleccion.Size = new System.Drawing.Size(764, 457);
+            this.Pnl_Seleccion.TabIndex = 1;
             // 
-            // panel8
+            // Tlp_Seleccion
             // 
-            this.panel8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(212)))), ((int)(((byte)(225)))));
-            this.panel8.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources._003_up_arrow_9;
-            this.panel8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.panel8.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel8.Location = new System.Drawing.Point(3, 183);
-            this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(64, 84);
-            this.panel8.TabIndex = 1;
+            this.Tlp_Seleccion.ColumnCount = 3;
+            this.Tlp_Seleccion.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 45F));
+            this.Tlp_Seleccion.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 10F));
+            this.Tlp_Seleccion.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 45F));
+            this.Tlp_Seleccion.Controls.Add(this.Dgv_Recursos, 0, 0);
+            this.Tlp_Seleccion.Controls.Add(this.Dgv_RecursosAsignados, 2, 0);
+            this.Tlp_Seleccion.Controls.Add(this.Tlp_Flechas, 1, 0);
+            this.Tlp_Seleccion.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Tlp_Seleccion.Location = new System.Drawing.Point(0, 0);
+            this.Tlp_Seleccion.Name = "Tlp_Seleccion";
+            this.Tlp_Seleccion.RowCount = 1;
+            this.Tlp_Seleccion.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.Tlp_Seleccion.Size = new System.Drawing.Size(764, 457);
+            this.Tlp_Seleccion.TabIndex = 1;
             // 
-            // panel7
+            // Dgv_Recursos
             // 
-            this.panel7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(212)))), ((int)(((byte)(225)))));
-            this.panel7.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources._045_left_arrow_12;
-            this.panel7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.panel7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel7.Location = new System.Drawing.Point(3, 93);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(64, 84);
-            this.panel7.TabIndex = 0;
+            this.Dgv_Recursos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.Dgv_Recursos.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Dgv_Recursos.Location = new System.Drawing.Point(3, 3);
+            this.Dgv_Recursos.Name = "Dgv_Recursos";
+            this.Dgv_Recursos.Size = new System.Drawing.Size(337, 451);
+            this.Dgv_Recursos.TabIndex = 0;
             // 
-            // dataGridView2
+            // Dgv_RecursosAsignados
             // 
-            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dataGridView2.Location = new System.Drawing.Point(422, 3);
-            this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.Size = new System.Drawing.Size(339, 451);
-            this.dataGridView2.TabIndex = 1;
+            this.Dgv_RecursosAsignados.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.Dgv_RecursosAsignados.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Dgv_RecursosAsignados.Location = new System.Drawing.Point(422, 3);
+            this.Dgv_RecursosAsignados.Name = "Dgv_RecursosAsignados";
+            this.Dgv_RecursosAsignados.Size = new System.Drawing.Size(339, 451);
+            this.Dgv_RecursosAsignados.TabIndex = 1;
             // 
-            // dataGridView1
+            // Tlp_Flechas
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dataGridView1.Location = new System.Drawing.Point(3, 3);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(337, 451);
-            this.dataGridView1.TabIndex = 0;
+            this.Tlp_Flechas.ColumnCount = 1;
+            this.Tlp_Flechas.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.Tlp_Flechas.Controls.Add(this.Pnl_FlechaIzquierda, 0, 1);
+            this.Tlp_Flechas.Controls.Add(this.Pnl_FlechaArriba, 0, 2);
+            this.Tlp_Flechas.Controls.Add(this.Pnl_FlechaAbajo, 0, 3);
+            this.Tlp_Flechas.Controls.Add(this.Pnl_BoteBasura, 0, 4);
+            this.Tlp_Flechas.Controls.Add(this.Pnl_FlechaDerecha, 0, 0);
+            this.Tlp_Flechas.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Tlp_Flechas.Location = new System.Drawing.Point(346, 3);
+            this.Tlp_Flechas.Name = "Tlp_Flechas";
+            this.Tlp_Flechas.RowCount = 5;
+            this.Tlp_Flechas.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.Tlp_Flechas.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.Tlp_Flechas.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.Tlp_Flechas.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.Tlp_Flechas.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.Tlp_Flechas.Size = new System.Drawing.Size(70, 451);
+            this.Tlp_Flechas.TabIndex = 2;
             // 
-            // panel4
+            // Pnl_FlechaIzquierda
             // 
-            this.panel4.Controls.Add(this.tableLayoutPanel6);
-            this.panel4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel4.Location = new System.Drawing.Point(3, 3);
-            this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(764, 75);
-            this.panel4.TabIndex = 0;
+            this.Pnl_FlechaIzquierda.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(212)))), ((int)(((byte)(225)))));
+            this.Pnl_FlechaIzquierda.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources._045_left_arrow_12;
+            this.Pnl_FlechaIzquierda.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.Pnl_FlechaIzquierda.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Pnl_FlechaIzquierda.Location = new System.Drawing.Point(3, 93);
+            this.Pnl_FlechaIzquierda.Name = "Pnl_FlechaIzquierda";
+            this.Pnl_FlechaIzquierda.Size = new System.Drawing.Size(64, 84);
+            this.Pnl_FlechaIzquierda.TabIndex = 0;
             // 
-            // label2
+            // Pnl_FlechaArriba
             // 
-            this.label2.AutoSize = true;
-            this.label2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label2.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(3, 0);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(146, 75);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Evaluacion:";
+            this.Pnl_FlechaArriba.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(212)))), ((int)(((byte)(225)))));
+            this.Pnl_FlechaArriba.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources._003_up_arrow_9;
+            this.Pnl_FlechaArriba.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.Pnl_FlechaArriba.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Pnl_FlechaArriba.Location = new System.Drawing.Point(3, 183);
+            this.Pnl_FlechaArriba.Name = "Pnl_FlechaArriba";
+            this.Pnl_FlechaArriba.Size = new System.Drawing.Size(64, 84);
+            this.Pnl_FlechaArriba.TabIndex = 1;
             // 
-            // panel3
+            // Pnl_FlechaAbajo
             // 
-            this.panel3.Controls.Add(this.tableLayoutPanel3);
-            this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel3.Location = new System.Drawing.Point(3, 66);
-            this.panel3.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(770, 544);
-            this.panel3.TabIndex = 1;
+            this.Pnl_FlechaAbajo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(212)))), ((int)(((byte)(225)))));
+            this.Pnl_FlechaAbajo.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources._059_down_arrow_9;
+            this.Pnl_FlechaAbajo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.Pnl_FlechaAbajo.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Pnl_FlechaAbajo.Location = new System.Drawing.Point(3, 273);
+            this.Pnl_FlechaAbajo.Name = "Pnl_FlechaAbajo";
+            this.Pnl_FlechaAbajo.Size = new System.Drawing.Size(64, 84);
+            this.Pnl_FlechaAbajo.TabIndex = 2;
             // 
-            // tableLayoutPanel6
+            // Pnl_BoteBasura
             // 
-            this.tableLayoutPanel6.ColumnCount = 2;
-            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 80F));
-            this.tableLayoutPanel6.Controls.Add(this.label2, 0, 0);
-            this.tableLayoutPanel6.Controls.Add(this.comboBox1, 1, 0);
-            this.tableLayoutPanel6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel6.Location = new System.Drawing.Point(0, 0);
-            this.tableLayoutPanel6.Name = "tableLayoutPanel6";
-            this.tableLayoutPanel6.RowCount = 1;
-            this.tableLayoutPanel6.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel6.Size = new System.Drawing.Size(764, 75);
-            this.tableLayoutPanel6.TabIndex = 3;
+            this.Pnl_BoteBasura.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(212)))), ((int)(((byte)(225)))));
+            this.Pnl_BoteBasura.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources.bote_de_basura;
+            this.Pnl_BoteBasura.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.Pnl_BoteBasura.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Pnl_BoteBasura.Location = new System.Drawing.Point(3, 363);
+            this.Pnl_BoteBasura.Name = "Pnl_BoteBasura";
+            this.Pnl_BoteBasura.Size = new System.Drawing.Size(64, 85);
+            this.Pnl_BoteBasura.TabIndex = 3;
             // 
-            // comboBox1
+            // Pnl_FlechaDerecha
             // 
-            this.comboBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(155, 3);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(606, 25);
-            this.comboBox1.TabIndex = 2;
+            this.Pnl_FlechaDerecha.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(212)))), ((int)(((byte)(225)))));
+            this.Pnl_FlechaDerecha.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources._029_right_arrow_12;
+            this.Pnl_FlechaDerecha.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.Pnl_FlechaDerecha.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Pnl_FlechaDerecha.Location = new System.Drawing.Point(3, 3);
+            this.Pnl_FlechaDerecha.Name = "Pnl_FlechaDerecha";
+            this.Pnl_FlechaDerecha.Size = new System.Drawing.Size(64, 84);
+            this.Pnl_FlechaDerecha.TabIndex = 4;
             // 
-            // AsignacionDeRecursos
+            // Frm_AsignacionDeRecursos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(776, 615);
-            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.Pnl_General);
             this.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.Name = "AsignacionDeRecursos";
+            this.Name = "Frm_AsignacionDeRecursos";
             this.Text = "AsignacionDeRecursos";
-            this.panel1.ResumeLayout(false);
-            this.tableLayoutPanel1.ResumeLayout(false);
-            this.panel2.ResumeLayout(false);
-            this.tableLayoutPanel2.ResumeLayout(false);
-            this.tableLayoutPanel2.PerformLayout();
-            this.tableLayoutPanel3.ResumeLayout(false);
-            this.panel6.ResumeLayout(false);
-            this.tableLayoutPanel4.ResumeLayout(false);
-            this.tableLayoutPanel5.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            this.panel4.ResumeLayout(false);
-            this.panel3.ResumeLayout(false);
-            this.tableLayoutPanel6.ResumeLayout(false);
-            this.tableLayoutPanel6.PerformLayout();
+            this.Pnl_General.ResumeLayout(false);
+            this.Tlp_General.ResumeLayout(false);
+            this.Pnl_Titulo.ResumeLayout(false);
+            this.Tlp_Titulo.ResumeLayout(false);
+            this.Tlp_Titulo.PerformLayout();
+            this.Pnl_Contenido.ResumeLayout(false);
+            this.Tlp_Contenido.ResumeLayout(false);
+            this.Pnl_Evaluacion.ResumeLayout(false);
+            this.Tlp_Evaluacion.ResumeLayout(false);
+            this.Tlp_Evaluacion.PerformLayout();
+            this.Pnl_Seleccion.ResumeLayout(false);
+            this.Tlp_Seleccion.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.Dgv_Recursos)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Dgv_RecursosAsignados)).EndInit();
+            this.Tlp_Flechas.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
-        private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel2;
-        private System.Windows.Forms.Panel panel5;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Panel panel3;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel3;
-        private System.Windows.Forms.Panel panel4;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel6;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.Panel panel6;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel4;
-        private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.DataGridView dataGridView2;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel5;
-        private System.Windows.Forms.Panel panel7;
-        private System.Windows.Forms.Panel panel8;
-        private System.Windows.Forms.Panel panel9;
-        private System.Windows.Forms.Panel panel10;
-        private System.Windows.Forms.Panel panel11;
+        private System.Windows.Forms.Panel Pnl_General;
+        private System.Windows.Forms.TableLayoutPanel Tlp_General;
+        private System.Windows.Forms.Panel Pnl_Titulo;
+        private System.Windows.Forms.TableLayoutPanel Tlp_Titulo;
+        private System.Windows.Forms.Panel Pnl_Icono;
+        private System.Windows.Forms.Label Lbl_AsignacionRecursos;
+        private System.Windows.Forms.Panel Pnl_Contenido;
+        private System.Windows.Forms.TableLayoutPanel Tlp_Contenido;
+        private System.Windows.Forms.Panel Pnl_Evaluacion;
+        private System.Windows.Forms.TableLayoutPanel Tlp_Evaluacion;
+        private System.Windows.Forms.Label Lbl_Evaluacion;
+        private System.Windows.Forms.ComboBox Cbo_Evaluacion;
+        private System.Windows.Forms.Panel Pnl_Seleccion;
+        private System.Windows.Forms.TableLayoutPanel Tlp_Seleccion;
+        private System.Windows.Forms.DataGridView Dgv_Recursos;
+        private System.Windows.Forms.DataGridView Dgv_RecursosAsignados;
+        private System.Windows.Forms.TableLayoutPanel Tlp_Flechas;
+        private System.Windows.Forms.Panel Pnl_FlechaIzquierda;
+        private System.Windows.Forms.Panel Pnl_FlechaArriba;
+        private System.Windows.Forms.Panel Pnl_FlechaAbajo;
+        private System.Windows.Forms.Panel Pnl_BoteBasura;
+        private System.Windows.Forms.Panel Pnl_FlechaDerecha;
     }
 }

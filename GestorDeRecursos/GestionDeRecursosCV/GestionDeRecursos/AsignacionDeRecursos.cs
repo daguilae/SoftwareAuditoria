@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace GestionDeRecursosCV.GestionDeRecursos
 {
-    public partial class AsignacionDeRecursos : Form
+    public partial class Frm_AsignacionDeRecursos : Form
     {
-        public AsignacionDeRecursos()
+        public Frm_AsignacionDeRecursos()
         {
             InitializeComponent();
         }
