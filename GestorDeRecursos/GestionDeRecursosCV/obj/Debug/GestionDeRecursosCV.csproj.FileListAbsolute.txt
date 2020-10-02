@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\bin\Debug\GestionDeRecursosCV.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\bin\Debug\GestionDeRecursosCV.pdb
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.pdb
