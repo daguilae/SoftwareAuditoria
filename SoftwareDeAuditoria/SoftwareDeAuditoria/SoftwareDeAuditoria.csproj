@@ -46,6 +46,9 @@
     <Reference Include="MarcosDeTrabajo">
       <HintPath>..\..\..\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajo\bin\Debug\MarcosDeTrabajo.dll</HintPath>
     </Reference>
+    <Reference Include="Prototipo">
+      <HintPath>..\..\..\GestionProyectos\(General)\SoftwareAuditoria\Prototipo\Prototipo\bin\Debug\Prototipo.exe</HintPath>
+    </Reference>
     <Reference Include="RCapaVista">
       <HintPath>..\..\..\GestionReportes\(General)\SoftwareAuditoria\CapaVista\CapaVista\bin\Debug\RCapaVista.dll</HintPath>
     </Reference>

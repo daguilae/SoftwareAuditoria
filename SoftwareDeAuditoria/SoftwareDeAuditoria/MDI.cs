@@ -15,11 +15,10 @@ using CapaVista.Mantenimientos;
 //Gestion de Reportes
 // -- no se siguio el estandard
 //Gestion de Proyectos
-// -- no se siguio el estandard y no compila 
+using Prototipo;
 //Gestion de Marcos de Trabajo
 using MarcosDeTrabajo;
-
-
+using GestionProyecto;
 
 namespace SoftwareDeAuditoria
 {
@@ -76,6 +75,18 @@ namespace SoftwareDeAuditoria
         {
             Frm_registrarmarco marco = new Frm_registrarmarco();
             marco.Show();
+        }
+
+        private void evaluacionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Evaluacion evaluacion = new Evaluacion();
+            evaluacion.Show();
+        }
+
+        private void informacionGeneralToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            InfoGeneral general = new InfoGeneral();
+            general.Show();
         }
     }
 }

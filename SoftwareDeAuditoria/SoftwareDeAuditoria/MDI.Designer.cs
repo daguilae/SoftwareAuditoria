@@ -32,6 +32,7 @@
             this.archivoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.proyectosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.marcosDeTrabajoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.gestionDeMarcosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.recursosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mantenimientosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.asignacionDeRecursosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -43,7 +44,8 @@
             this.empresaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reportesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reportesToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.gestionDeMarcosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.evaluacionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.informacionGeneralToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -70,6 +72,9 @@
             // 
             // proyectosToolStripMenuItem
             // 
+            this.proyectosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.evaluacionToolStripMenuItem,
+            this.informacionGeneralToolStripMenuItem});
             this.proyectosToolStripMenuItem.Name = "proyectosToolStripMenuItem";
             this.proyectosToolStripMenuItem.Size = new System.Drawing.Size(71, 20);
             this.proyectosToolStripMenuItem.Text = "Proyectos";
@@ -81,6 +86,13 @@
             this.marcosDeTrabajoToolStripMenuItem.Name = "marcosDeTrabajoToolStripMenuItem";
             this.marcosDeTrabajoToolStripMenuItem.Size = new System.Drawing.Size(116, 20);
             this.marcosDeTrabajoToolStripMenuItem.Text = "Marcos De Trabajo";
+            // 
+            // gestionDeMarcosToolStripMenuItem
+            // 
+            this.gestionDeMarcosToolStripMenuItem.Name = "gestionDeMarcosToolStripMenuItem";
+            this.gestionDeMarcosToolStripMenuItem.Size = new System.Drawing.Size(172, 22);
+            this.gestionDeMarcosToolStripMenuItem.Text = "Gestion de Marcos";
+            this.gestionDeMarcosToolStripMenuItem.Click += new System.EventHandler(this.gestionDeMarcosToolStripMenuItem_Click);
             // 
             // recursosToolStripMenuItem
             // 
@@ -167,12 +179,19 @@
             this.reportesToolStripMenuItem1.Text = "Reportes";
             this.reportesToolStripMenuItem1.Click += new System.EventHandler(this.reportesToolStripMenuItem1_Click);
             // 
-            // gestionDeMarcosToolStripMenuItem
+            // evaluacionToolStripMenuItem
             // 
-            this.gestionDeMarcosToolStripMenuItem.Name = "gestionDeMarcosToolStripMenuItem";
-            this.gestionDeMarcosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.gestionDeMarcosToolStripMenuItem.Text = "Gestion de Marcos";
-            this.gestionDeMarcosToolStripMenuItem.Click += new System.EventHandler(this.gestionDeMarcosToolStripMenuItem_Click);
+            this.evaluacionToolStripMenuItem.Name = "evaluacionToolStripMenuItem";
+            this.evaluacionToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
+            this.evaluacionToolStripMenuItem.Text = "Evaluacion";
+            this.evaluacionToolStripMenuItem.Click += new System.EventHandler(this.evaluacionToolStripMenuItem_Click);
+            // 
+            // informacionGeneralToolStripMenuItem
+            // 
+            this.informacionGeneralToolStripMenuItem.Name = "informacionGeneralToolStripMenuItem";
+            this.informacionGeneralToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
+            this.informacionGeneralToolStripMenuItem.Text = "Informacion General";
+            this.informacionGeneralToolStripMenuItem.Click += new System.EventHandler(this.informacionGeneralToolStripMenuItem_Click);
             // 
             // MDI
             // 
@@ -208,6 +227,8 @@
         private System.Windows.Forms.ToolStripMenuItem empresaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem reportesToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem gestionDeMarcosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem evaluacionToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem informacionGeneralToolStripMenuItem;
     }
 }
 
