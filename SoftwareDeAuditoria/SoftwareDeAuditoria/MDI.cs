@@ -12,9 +12,9 @@ using GestionDeRecursosCV.GestionDeRecursos;
 using GestionDeRecursosCV.Mantenimientos;
 //Gestion de Requerimientos
 using CapaVista.Mantenimientos;
-//Gestion de
-
-//Gestion de
+//Gestion de Reportes
+ // -- no se siguio el estandard
+//Gestion de 
 
 //Gestion de
 
@@ -62,6 +62,12 @@ namespace SoftwareDeAuditoria
         {
             Frm_MantenimientoEmpresa empresa = new Frm_MantenimientoEmpresa();
             empresa.Show();
+        }
+
+        private void reportesToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            Reportes reporte = new Reportes();
+            reporte.Show();
         }
     }
 }
