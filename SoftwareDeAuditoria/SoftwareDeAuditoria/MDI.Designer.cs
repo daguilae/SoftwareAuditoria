@@ -1,6 +1,6 @@
 ﻿namespace SoftwareDeAuditoria
 {
-    partial class Form1
+    partial class MDI
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -34,9 +34,14 @@
             this.marcosDeTrabajoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.recursosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mantenimientosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.asignacionDeRecursosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.requerimientosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reportesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.asignacionDeRecursosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mantenimientosToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.auditoresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.contactosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.departamentoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.empresaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -89,8 +94,17 @@
             this.mantenimientosToolStripMenuItem.Text = "Mantenimientos";
             this.mantenimientosToolStripMenuItem.Click += new System.EventHandler(this.mantenimientosToolStripMenuItem_Click);
             // 
+            // asignacionDeRecursosToolStripMenuItem
+            // 
+            this.asignacionDeRecursosToolStripMenuItem.Name = "asignacionDeRecursosToolStripMenuItem";
+            this.asignacionDeRecursosToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
+            this.asignacionDeRecursosToolStripMenuItem.Text = "Asignacion de Recursos";
+            this.asignacionDeRecursosToolStripMenuItem.Click += new System.EventHandler(this.asignacionDeRecursosToolStripMenuItem_Click);
+            // 
             // requerimientosToolStripMenuItem
             // 
+            this.requerimientosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mantenimientosToolStripMenuItem1});
             this.requerimientosToolStripMenuItem.Name = "requerimientosToolStripMenuItem";
             this.requerimientosToolStripMenuItem.Size = new System.Drawing.Size(102, 20);
             this.requerimientosToolStripMenuItem.Text = "Requerimientos";
@@ -101,22 +115,54 @@
             this.reportesToolStripMenuItem.Size = new System.Drawing.Size(65, 20);
             this.reportesToolStripMenuItem.Text = "Reportes";
             // 
-            // asignacionDeRecursosToolStripMenuItem
+            // mantenimientosToolStripMenuItem1
             // 
-            this.asignacionDeRecursosToolStripMenuItem.Name = "asignacionDeRecursosToolStripMenuItem";
-            this.asignacionDeRecursosToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
-            this.asignacionDeRecursosToolStripMenuItem.Text = "Asignacion de Recursos";
-            this.asignacionDeRecursosToolStripMenuItem.Click += new System.EventHandler(this.asignacionDeRecursosToolStripMenuItem_Click);
+            this.mantenimientosToolStripMenuItem1.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.auditoresToolStripMenuItem,
+            this.contactosToolStripMenuItem,
+            this.departamentoToolStripMenuItem,
+            this.empresaToolStripMenuItem});
+            this.mantenimientosToolStripMenuItem1.Name = "mantenimientosToolStripMenuItem1";
+            this.mantenimientosToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.mantenimientosToolStripMenuItem1.Text = "Mantenimientos";
             // 
-            // Form1
+            // auditoresToolStripMenuItem
+            // 
+            this.auditoresToolStripMenuItem.Name = "auditoresToolStripMenuItem";
+            this.auditoresToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.auditoresToolStripMenuItem.Text = "Auditores";
+            this.auditoresToolStripMenuItem.Click += new System.EventHandler(this.auditoresToolStripMenuItem_Click);
+            // 
+            // contactosToolStripMenuItem
+            // 
+            this.contactosToolStripMenuItem.Name = "contactosToolStripMenuItem";
+            this.contactosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.contactosToolStripMenuItem.Text = "Contactos";
+            this.contactosToolStripMenuItem.Click += new System.EventHandler(this.contactosToolStripMenuItem_Click);
+            // 
+            // departamentoToolStripMenuItem
+            // 
+            this.departamentoToolStripMenuItem.Name = "departamentoToolStripMenuItem";
+            this.departamentoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.departamentoToolStripMenuItem.Text = "Departamento";
+            this.departamentoToolStripMenuItem.Click += new System.EventHandler(this.departamentoToolStripMenuItem_Click);
+            // 
+            // empresaToolStripMenuItem
+            // 
+            this.empresaToolStripMenuItem.Name = "empresaToolStripMenuItem";
+            this.empresaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.empresaToolStripMenuItem.Text = "Empresa";
+            this.empresaToolStripMenuItem.Click += new System.EventHandler(this.empresaToolStripMenuItem_Click);
+            // 
+            // MDI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "MDI";
+            this.Text = "MDI";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
@@ -135,6 +181,11 @@
         private System.Windows.Forms.ToolStripMenuItem requerimientosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem reportesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem asignacionDeRecursosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem mantenimientosToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem auditoresToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem contactosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem departamentoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem empresaToolStripMenuItem;
     }
 }
 
