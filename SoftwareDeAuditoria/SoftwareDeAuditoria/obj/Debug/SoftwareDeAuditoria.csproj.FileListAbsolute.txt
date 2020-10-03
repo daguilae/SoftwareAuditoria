@@ -48,3 +48,5 @@
 \\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\SoftwareAuditoria\SoftwareDeAuditoria\SoftwareDeAuditoria\bin\Debug\RCapaVista.dll
 \\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\SoftwareAuditoria\SoftwareDeAuditoria\SoftwareDeAuditoria\bin\Debug\RCapaVista.pdb
 \\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\SoftwareAuditoria\SoftwareDeAuditoria\SoftwareDeAuditoria\obj\Debug\SoftwareDeAuditoria.Reportes.resources
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\SoftwareAuditoria\SoftwareDeAuditoria\SoftwareDeAuditoria\bin\Debug\MarcosDeTrabajo.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\SoftwareAuditoria\SoftwareDeAuditoria\SoftwareDeAuditoria\bin\Debug\MarcosDeTrabajo.pdb

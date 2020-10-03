@@ -43,6 +43,9 @@
     <Reference Include="GestionDeRecursosCV">
       <HintPath>..\..\..\GestionRecursos\(Personal)\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\bin\Debug\GestionDeRecursosCV.dll</HintPath>
     </Reference>
+    <Reference Include="MarcosDeTrabajo">
+      <HintPath>..\..\..\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajo\bin\Debug\MarcosDeTrabajo.dll</HintPath>
+    </Reference>
     <Reference Include="RCapaVista">
       <HintPath>..\..\..\GestionReportes\(General)\SoftwareAuditoria\CapaVista\CapaVista\bin\Debug\RCapaVista.dll</HintPath>
     </Reference>

@@ -43,6 +43,7 @@
             this.empresaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reportesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reportesToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.gestionDeMarcosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -75,6 +76,8 @@
             // 
             // marcosDeTrabajoToolStripMenuItem
             // 
+            this.marcosDeTrabajoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.gestionDeMarcosToolStripMenuItem});
             this.marcosDeTrabajoToolStripMenuItem.Name = "marcosDeTrabajoToolStripMenuItem";
             this.marcosDeTrabajoToolStripMenuItem.Size = new System.Drawing.Size(116, 20);
             this.marcosDeTrabajoToolStripMenuItem.Text = "Marcos De Trabajo";
@@ -160,9 +163,16 @@
             // reportesToolStripMenuItem1
             // 
             this.reportesToolStripMenuItem1.Name = "reportesToolStripMenuItem1";
-            this.reportesToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.reportesToolStripMenuItem1.Size = new System.Drawing.Size(120, 22);
             this.reportesToolStripMenuItem1.Text = "Reportes";
             this.reportesToolStripMenuItem1.Click += new System.EventHandler(this.reportesToolStripMenuItem1_Click);
+            // 
+            // gestionDeMarcosToolStripMenuItem
+            // 
+            this.gestionDeMarcosToolStripMenuItem.Name = "gestionDeMarcosToolStripMenuItem";
+            this.gestionDeMarcosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.gestionDeMarcosToolStripMenuItem.Text = "Gestion de Marcos";
+            this.gestionDeMarcosToolStripMenuItem.Click += new System.EventHandler(this.gestionDeMarcosToolStripMenuItem_Click);
             // 
             // MDI
             // 
@@ -197,6 +207,7 @@
         private System.Windows.Forms.ToolStripMenuItem departamentoToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem empresaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem reportesToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem gestionDeMarcosToolStripMenuItem;
     }
 }
 

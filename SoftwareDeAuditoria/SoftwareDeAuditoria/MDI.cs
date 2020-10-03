@@ -13,10 +13,12 @@ using GestionDeRecursosCV.Mantenimientos;
 //Gestion de Requerimientos
 using CapaVista.Mantenimientos;
 //Gestion de Reportes
- // -- no se siguio el estandard
+// -- no se siguio el estandard
 //Gestion de Proyectos
- // -- no se siguio el estandard y no compila 
-//Gestion de
+// -- no se siguio el estandard y no compila 
+//Gestion de Marcos de Trabajo
+using MarcosDeTrabajo;
+
 
 
 namespace SoftwareDeAuditoria
@@ -68,6 +70,12 @@ namespace SoftwareDeAuditoria
         {
             Reportes reporte = new Reportes();
             reporte.Show();
+        }
+
+        private void gestionDeMarcosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frm_registrarmarco marco = new Frm_registrarmarco();
+            marco.Show();
         }
     }
 }
