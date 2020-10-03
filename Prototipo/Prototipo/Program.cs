@@ -1,10 +1,11 @@
-﻿using System;
+﻿using GestionProyecto;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace GestionProyecto
+namespace Prototipo
 {
     static class Program
     {
@@ -16,7 +17,7 @@ namespace GestionProyecto
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new DtosGenerales());
+            Application.Run(new Evaluacion());
         }
     }
 }
