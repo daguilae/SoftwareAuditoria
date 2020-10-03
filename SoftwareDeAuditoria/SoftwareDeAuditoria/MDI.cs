@@ -14,8 +14,8 @@ using GestionDeRecursosCV.Mantenimientos;
 using CapaVista.Mantenimientos;
 //Gestion de Reportes
  // -- no se siguio el estandard
-//Gestion de 
-
+//Gestion de Proyectos
+ // -- no se siguio el estandard y no compila 
 //Gestion de
 
 
