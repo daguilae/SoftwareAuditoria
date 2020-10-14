@@ -7,8 +7,8 @@
     <ProjectGuid>{11073606-35F6-40FB-BBF5-884F912B87F1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GestionDeRecursosCV</RootNamespace>
-    <AssemblyName>GestionDeRecursosCV</AssemblyName>
+    <RootNamespace>GestionRecursosCV</RootNamespace>
+    <AssemblyName>GestionRecursosCV</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

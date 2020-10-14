@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace GestionDeRecursosCV.GestionDeRecursos
+namespace GestionRecursosCV.GestionDeRecursos
 {
     public partial class Frm_AsignacionDeRecursos : Form
     {

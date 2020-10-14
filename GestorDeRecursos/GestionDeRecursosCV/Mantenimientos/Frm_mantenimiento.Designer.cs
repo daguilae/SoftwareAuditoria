@@ -1,4 +1,4 @@
-﻿namespace GestionDeRecursosCV.Mantenimientos
+﻿namespace GestionRecursosCV.Mantenimientos
 {
     partial class Frm_mantenimiento
     {
@@ -99,7 +99,7 @@
             // 
             // Pnl_Icono
             // 
-            this.Pnl_Icono.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources.productivity;
+            this.Pnl_Icono.BackgroundImage = global::GestionRecursosCV.Properties.Resources.productivity;
             this.Pnl_Icono.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Pnl_Icono.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Pnl_Icono.Location = new System.Drawing.Point(792, 4);
@@ -138,7 +138,7 @@
             this.navegador1.Size = new System.Drawing.Size(987, 667);
             this.navegador1.TabIndex = 0;
             // 
-            // Mantenimiento
+            // Frm_mantenimiento
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -146,8 +146,8 @@
             this.Controls.Add(this.Pnl_General);
             this.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.Name = "Mantenimiento";
-            this.Text = "Frm_Mantenimiento";
+            this.Name = "Frm_mantenimiento";
+            this.Text = "Mantenimiento";
             this.Pnl_General.ResumeLayout(false);
             this.Tlp_General.ResumeLayout(false);
             this.Pnl_Titulo.ResumeLayout(false);

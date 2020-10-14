@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace GestionDeRecursosCV.Mantenimientos
+namespace GestionRecursosCV.Mantenimientos
 {
     public partial class Frm_mantenimiento : Form
     {
