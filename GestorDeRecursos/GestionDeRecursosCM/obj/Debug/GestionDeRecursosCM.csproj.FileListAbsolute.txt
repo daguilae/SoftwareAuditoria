@@ -4,3 +4,9 @@
 \\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\obj\Debug\GestionDeRecursosCM.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\obj\Debug\GestionDeRecursosCM.dll
 \\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\obj\Debug\GestionDeRecursosCM.pdb
+C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\bin\Debug\GestionDeRecursosCM.dll
+C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\bin\Debug\GestionDeRecursosCM.pdb
+C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\obj\Debug\GestionDeRecursosCM.csprojAssemblyReference.cache
+C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\obj\Debug\GestionDeRecursosCM.csproj.CoreCompileInputs.cache
+C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\obj\Debug\GestionDeRecursosCM.dll
+C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\obj\Debug\GestionDeRecursosCM.pdb
