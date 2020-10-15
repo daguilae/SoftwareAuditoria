@@ -1,0 +1,12 @@
+C:\Users\ISIS\source\repos\GestionProyecto\GestionProyecto\obj\Debug\GestionProyecto.csprojAssemblyReference.cache
+C:\Users\ISIS\source\repos\GestionProyecto\GestionProyecto\obj\Debug\GestionProyecto.Frm_Evaluacion.resources
+C:\Users\ISIS\source\repos\GestionProyecto\GestionProyecto\obj\Debug\GestionProyecto.Form1.resources
+C:\Users\ISIS\source\repos\GestionProyecto\GestionProyecto\obj\Debug\GestionProyecto.Frm_InfoGeneral.resources
+C:\Users\ISIS\source\repos\GestionProyecto\GestionProyecto\obj\Debug\GestionProyecto.Properties.Resources.resources
+C:\Users\ISIS\source\repos\GestionProyecto\GestionProyecto\obj\Debug\GestionProyecto.csproj.GenerateResource.cache
+C:\Users\ISIS\source\repos\GestionProyecto\GestionProyecto\obj\Debug\GestionProyecto.csproj.CoreCompileInputs.cache
+C:\Users\ISIS\source\repos\GestionProyecto\GestionProyecto\bin\Debug\GestionProyecto.exe.config
+C:\Users\ISIS\source\repos\GestionProyecto\GestionProyecto\bin\Debug\GestionProyecto.exe
+C:\Users\ISIS\source\repos\GestionProyecto\GestionProyecto\bin\Debug\GestionProyecto.pdb
+C:\Users\ISIS\source\repos\GestionProyecto\GestionProyecto\obj\Debug\GestionProyecto.exe
+C:\Users\ISIS\source\repos\GestionProyecto\GestionProyecto\obj\Debug\GestionProyecto.pdb
