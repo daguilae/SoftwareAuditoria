@@ -1,0 +1,12 @@
+C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\MarcosDeTrabajoCV.dll
+C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\MarcosDeTrabajoCV.pdb
+C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.csproj.CoreCompileInputs.cache
+C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.dll
+C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.pdb
+C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.csproj.GenerateResource.cache
+C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.Frm_registrarmarco.resources
+C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.csprojAssemblyReference.cache
+C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.Frm_asignarmarco.resources
+C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\MarcosDeTrabajoCC.dll
+C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\MarcosDeTrabajoCC.pdb
+C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.csproj.CopyComplete
