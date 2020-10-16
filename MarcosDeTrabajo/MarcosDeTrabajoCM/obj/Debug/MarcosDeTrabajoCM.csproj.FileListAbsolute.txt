@@ -1,0 +1,6 @@
+C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCM\bin\Debug\MarcosDeTrabajoCM.dll
+C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCM\bin\Debug\MarcosDeTrabajoCM.pdb
+C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCM\obj\Debug\MarcosDeTrabajoCM.csproj.CoreCompileInputs.cache
+C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCM\obj\Debug\MarcosDeTrabajoCM.dll
+C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCM\obj\Debug\MarcosDeTrabajoCM.pdb
+C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCM\obj\Debug\MarcosDeTrabajoCM.csprojAssemblyReference.cache
