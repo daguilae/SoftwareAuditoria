@@ -7,8 +7,8 @@
     <ProjectGuid>{11073606-35F6-40FB-BBF5-884F912B87F1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GestionDeRecursosCV</RootNamespace>
-    <AssemblyName>GestionDeRecursosCV</AssemblyName>
+    <RootNamespace>GestionRecursosCV</RootNamespace>
+    <AssemblyName>GestionRecursosCV</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -49,17 +49,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GestionDeRecursos\AsignacionDeRecursos.cs">
+    <Compile Include="GestionDeRecursos\Frm_asignacionDeRecursos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GestionDeRecursos\AsignacionDeRecursos.Designer.cs">
-      <DependentUpon>AsignacionDeRecursos.cs</DependentUpon>
+    <Compile Include="GestionDeRecursos\Frm_asignacionDeRecursos.Designer.cs">
+      <DependentUpon>Frm_asignacionDeRecursos.cs</DependentUpon>
     </Compile>
-    <Compile Include="Mantenimientos\Mantenimiento.cs">
+    <Compile Include="Mantenimientos\Frm_mantenimiento.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Mantenimientos\Mantenimiento.Designer.cs">
-      <DependentUpon>Mantenimiento.cs</DependentUpon>
+    <Compile Include="Mantenimientos\Frm_mantenimiento.Designer.cs">
+      <DependentUpon>Frm_mantenimiento.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
@@ -72,11 +72,11 @@
     <None Include="Resources\recurso.png" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="GestionDeRecursos\AsignacionDeRecursos.resx">
-      <DependentUpon>AsignacionDeRecursos.cs</DependentUpon>
+    <EmbeddedResource Include="GestionDeRecursos\Frm_asignacionDeRecursos.resx">
+      <DependentUpon>Frm_asignacionDeRecursos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Mantenimientos\Mantenimiento.resx">
-      <DependentUpon>Mantenimiento.cs</DependentUpon>
+    <EmbeddedResource Include="Mantenimientos\Frm_mantenimiento.resx">
+      <DependentUpon>Frm_mantenimiento.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -7,3 +7,12 @@
 \\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\bin\Debug\GestionDeRecursosCM.pdb
 \\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\obj\Debug\GestionDeRecursosCC.csprojAssemblyReference.cache
 \\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\obj\Debug\GestionDeRecursosCC.csproj.CopyComplete
+C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\bin\Debug\GestionDeRecursosCC.dll
+C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\bin\Debug\GestionDeRecursosCC.pdb
+C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\bin\Debug\GestionDeRecursosCM.dll
+C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\bin\Debug\GestionDeRecursosCM.pdb
+C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\obj\Debug\GestionDeRecursosCC.csprojAssemblyReference.cache
+C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\obj\Debug\GestionDeRecursosCC.csproj.CoreCompileInputs.cache
+C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\obj\Debug\GestionDeRecursosCC.csproj.CopyComplete
+C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\obj\Debug\GestionDeRecursosCC.dll
+C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\obj\Debug\GestionDeRecursosCC.pdb

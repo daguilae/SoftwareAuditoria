@@ -39,8 +39,6 @@
 \\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\bin\Debug\CapaDeDatos.pdb
 \\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\bin\Debug\CapaLogica_Consultas.pdb
 \\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\bin\Debug\CapaDatos_Consultas.pdb
-\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.GestionDeRecursos.AsignacionDeRecursos.resources
-\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.Mantenimientos.Mantenimiento.resources
 \\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.Properties.Resources.resources
 \\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.csproj.GenerateResource.cache
 C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\bin\Debug\GestionDeRecursosCV.dll
@@ -49,10 +47,12 @@ C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria
 C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\bin\Debug\GestionDeRecursosCC.pdb
 C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.csprojAssemblyReference.cache
 C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.GestionDeRecursos.Frm_AsignacionDeRecursos.resources
-C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.Mantenimientos.Mantenimiento.resources
 C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.Properties.Resources.resources
 C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.csproj.GenerateResource.cache
 C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.csproj.CoreCompileInputs.cache
 C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.csproj.CopyComplete
 C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.dll
 C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.pdb
+C:\Users\Conny\Documents\Ingenieria\10. Decimo Semestre\2. Seguridad y Auditoria de Sistemas\SW\Recursos\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.Mantenimientos.Frm_mantenimiento.resources
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.GestionDeRecursos.Frm_AsignacionDeRecursos.resources
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\obj\Debug\GestionDeRecursosCV.Mantenimientos.Frm_mantenimiento.resources

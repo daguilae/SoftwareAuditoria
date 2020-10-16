@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\bin\Debug\GestionRecursosCC.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\bin\Debug\GestionRecursosCC.pdb
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\bin\Debug\GestionDeRecursosCM.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\bin\Debug\GestionDeRecursosCM.pdb
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\obj\Debug\GestionRecursosCC.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\obj\Debug\GestionRecursosCC.csproj.CopyComplete
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\obj\Debug\GestionRecursosCC.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursos\obj\Debug\GestionRecursosCC.pdb

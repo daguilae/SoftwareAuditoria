@@ -1,4 +1,4 @@
-﻿namespace GestionDeRecursosCV.GestionDeRecursos
+﻿namespace GestionRecursosCV.GestionDeRecursos
 {
     partial class Frm_AsignacionDeRecursos
     {
@@ -121,7 +121,7 @@
             // 
             // Pnl_Icono
             // 
-            this.Pnl_Icono.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources.recurso;
+            this.Pnl_Icono.BackgroundImage = global::GestionRecursosCV.Properties.Resources.recurso;
             this.Pnl_Icono.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Pnl_Icono.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Pnl_Icono.Location = new System.Drawing.Point(619, 5);
@@ -277,7 +277,7 @@
             // Pnl_FlechaIzquierda
             // 
             this.Pnl_FlechaIzquierda.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(212)))), ((int)(((byte)(225)))));
-            this.Pnl_FlechaIzquierda.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources._045_left_arrow_12;
+            this.Pnl_FlechaIzquierda.BackgroundImage = global::GestionRecursosCV.Properties.Resources._045_left_arrow_12;
             this.Pnl_FlechaIzquierda.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Pnl_FlechaIzquierda.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Pnl_FlechaIzquierda.Location = new System.Drawing.Point(3, 93);
@@ -288,7 +288,7 @@
             // Pnl_FlechaArriba
             // 
             this.Pnl_FlechaArriba.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(212)))), ((int)(((byte)(225)))));
-            this.Pnl_FlechaArriba.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources._003_up_arrow_9;
+            this.Pnl_FlechaArriba.BackgroundImage = global::GestionRecursosCV.Properties.Resources._003_up_arrow_9;
             this.Pnl_FlechaArriba.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Pnl_FlechaArriba.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Pnl_FlechaArriba.Location = new System.Drawing.Point(3, 183);
@@ -299,7 +299,7 @@
             // Pnl_FlechaAbajo
             // 
             this.Pnl_FlechaAbajo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(212)))), ((int)(((byte)(225)))));
-            this.Pnl_FlechaAbajo.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources._059_down_arrow_9;
+            this.Pnl_FlechaAbajo.BackgroundImage = global::GestionRecursosCV.Properties.Resources._059_down_arrow_9;
             this.Pnl_FlechaAbajo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Pnl_FlechaAbajo.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Pnl_FlechaAbajo.Location = new System.Drawing.Point(3, 273);
@@ -310,7 +310,7 @@
             // Pnl_BoteBasura
             // 
             this.Pnl_BoteBasura.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(212)))), ((int)(((byte)(225)))));
-            this.Pnl_BoteBasura.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources.bote_de_basura;
+            this.Pnl_BoteBasura.BackgroundImage = global::GestionRecursosCV.Properties.Resources.bote_de_basura;
             this.Pnl_BoteBasura.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Pnl_BoteBasura.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Pnl_BoteBasura.Location = new System.Drawing.Point(3, 363);
@@ -321,7 +321,7 @@
             // Pnl_FlechaDerecha
             // 
             this.Pnl_FlechaDerecha.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(212)))), ((int)(((byte)(225)))));
-            this.Pnl_FlechaDerecha.BackgroundImage = global::GestionDeRecursosCV.Properties.Resources._029_right_arrow_12;
+            this.Pnl_FlechaDerecha.BackgroundImage = global::GestionRecursosCV.Properties.Resources._029_right_arrow_12;
             this.Pnl_FlechaDerecha.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Pnl_FlechaDerecha.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Pnl_FlechaDerecha.Location = new System.Drawing.Point(3, 3);
@@ -338,7 +338,7 @@
             this.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Frm_AsignacionDeRecursos";
-            this.Text = "AsignacionDeRecursos";
+            this.Text = "Asignacion De Recursos";
             this.Pnl_General.ResumeLayout(false);
             this.Tlp_General.ResumeLayout(false);
             this.Pnl_Titulo.ResumeLayout(false);
