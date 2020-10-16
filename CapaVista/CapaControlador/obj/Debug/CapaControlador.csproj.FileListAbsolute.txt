@@ -1,9 +1,0 @@
-C:\Users\edgar\Documents\GitHub\SoftwareAuditoria\GestionDeReportes\CapaVista\CapaControlador\bin\Debug\CapaControlador.dll
-C:\Users\edgar\Documents\GitHub\SoftwareAuditoria\GestionDeReportes\CapaVista\CapaControlador\bin\Debug\CapaControlador.pdb
-C:\Users\edgar\Documents\GitHub\SoftwareAuditoria\GestionDeReportes\CapaVista\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
-C:\Users\edgar\Documents\GitHub\SoftwareAuditoria\GestionDeReportes\CapaVista\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
-C:\Users\edgar\Documents\GitHub\SoftwareAuditoria\GestionDeReportes\CapaVista\CapaControlador\obj\Debug\CapaControlador.dll
-C:\Users\edgar\Documents\GitHub\SoftwareAuditoria\GestionDeReportes\CapaVista\CapaControlador\obj\Debug\CapaControlador.pdb
-C:\Users\edgar\Documents\GitHub\SoftwareAuditoria\GestionDeReportes\CapaVista\CapaControlador\bin\Debug\CapaModelo.dll
-C:\Users\edgar\Documents\GitHub\SoftwareAuditoria\GestionDeReportes\CapaVista\CapaControlador\bin\Debug\CapaModelo.pdb
-C:\Users\edgar\Documents\GitHub\SoftwareAuditoria\GestionDeReportes\CapaVista\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete

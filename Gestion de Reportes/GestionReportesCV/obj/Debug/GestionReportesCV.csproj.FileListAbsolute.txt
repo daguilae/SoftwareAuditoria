@@ -1,0 +1,12 @@
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCV\bin\Debug\GestionReportesCV.dll
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCV\bin\Debug\GestionReportesCV.pdb
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCV\obj\Debug\GestionReportesCV.csprojAssemblyReference.cache
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCV\obj\Debug\GestionReportesCV.Frm_reportes.resources
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCV\obj\Debug\GestionReportesCV.Properties.Resources.resources
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCV\obj\Debug\GestionReportesCV.csproj.GenerateResource.cache
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCV\obj\Debug\GestionReportesCV.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCV\obj\Debug\GestionReportesCV.dll
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCV\obj\Debug\GestionReportesCV.pdb
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCV\bin\Debug\GestionReportesCC.dll
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCV\bin\Debug\GestionReportesCC.pdb
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCV\obj\Debug\GestionReportesCV.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCC\bin\Debug\GestionReportesCC.dll
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCC\bin\Debug\GestionReportesCC.pdb
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCC\obj\Debug\GestionReportesCC.csprojAssemblyReference.cache
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCC\obj\Debug\GestionReportesCC.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCC\obj\Debug\GestionReportesCC.dll
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCC\obj\Debug\GestionReportesCC.pdb
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCC\bin\Debug\GestionReportesCM.dll
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCC\bin\Debug\GestionReportesCM.pdb
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCC\obj\Debug\GestionReportesCC.csproj.CopyComplete

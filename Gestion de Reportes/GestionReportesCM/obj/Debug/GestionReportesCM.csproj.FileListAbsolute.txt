@@ -1,0 +1,6 @@
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCM\bin\Debug\GestionReportesCM.dll
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCM\bin\Debug\GestionReportesCM.pdb
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCM\obj\Debug\GestionReportesCM.csprojAssemblyReference.cache
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCM\obj\Debug\GestionReportesCM.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCM\obj\Debug\GestionReportesCM.dll
+C:\Users\edgar\Documents\GitHub\Reportes\SoftwareAuditoria\Gestion de Reportes\GestionReportesCM\obj\Debug\GestionReportesCM.pdb
