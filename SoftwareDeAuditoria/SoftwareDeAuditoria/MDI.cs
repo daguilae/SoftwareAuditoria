@@ -13,12 +13,11 @@ using GestionDeRecursosCV.Mantenimientos;
 //Gestion de Requerimientos
 using CapaVista.Mantenimientos;
 //Gestion de Reportes
-// -- no se siguio el estandard
+using GestionReportesCV;
 //Gestion de Proyectos
-using Prototipo;
-//Gestion de Marcos de Trabajo
-using MarcosDeTrabajo;
 using GestionProyecto;
+//Gestion de Marcos de Trabajo
+using MarcosDeTrabajoCV;
 
 namespace SoftwareDeAuditoria
 {
@@ -27,66 +26,85 @@ namespace SoftwareDeAuditoria
         public MDI()
         {
             InitializeComponent();
+            IsMdiContainer = true;
+        }
+
+        private void mostrarVentana(Form form)
+        {
+            form.MdiParent = this;
+            form.Show();
         }
 
         private void mantenimientosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Mantenimiento mantenimiento = new Mantenimiento();
-            mantenimiento.Show();
+            Frm_mantenimiento mantenimiento = new Frm_mantenimiento();
+            mostrarVentana(mantenimiento);
         }
 
         private void asignacionDeRecursosToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Frm_AsignacionDeRecursos asignacionDeRecursos = new Frm_AsignacionDeRecursos();
-            asignacionDeRecursos.Show();
+            mostrarVentana(asignacionDeRecursos);
         }
 
         private void auditoresToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Frm_MantenimientoAuditores auditores = new Frm_MantenimientoAuditores();
-            auditores.Show();
+            mostrarVentana(auditores);
         }
 
         private void contactosToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Frm_MantenimientoContactos contactos = new Frm_MantenimientoContactos();
-            contactos.Show();
+            mostrarVentana(contactos);
         }
 
         private void departamentoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Frm_MantenimientoDepartamentos departamentos = new Frm_MantenimientoDepartamentos();
-            departamentos.Show();
+            mostrarVentana(departamentos);
         }
 
         private void empresaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Frm_MantenimientoEmpresa empresa = new Frm_MantenimientoEmpresa();
-            empresa.Show();
+            mostrarVentana(empresa);
         }
 
         private void reportesToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            Reportes reporte = new Reportes();
-            reporte.Show();
+            Frm_reportes reporte = new Frm_reportes();
+            mostrarVentana(reporte);
         }
 
         private void gestionDeMarcosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Frm_registrarmarco marco = new Frm_registrarmarco();
-            marco.Show();
-        }
-
-        private void evaluacionToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Evaluacion evaluacion = new Evaluacion();
-            evaluacion.Show();
+            Frm_asignarmarco marco = new Frm_asignarmarco();
+            mostrarVentana(marco);
         }
 
         private void informacionGeneralToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            InfoGeneral general = new InfoGeneral();
-            general.Show();
+            Frm_InfoGeneral general = new Frm_InfoGeneral();
+            mostrarVentana(general);
+        }
+
+        private void evaluacionesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frm_Evaluacion evaluacion = new Frm_Evaluacion();
+            mostrarVentana(evaluacion);
+        }
+
+        private void registroDeMarcoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frm_registrarmarco marco = new Frm_registrarmarco();
+            mostrarVentana(marco);
+        }
+
+        private void asignacionDeMarcoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frm_asignarmarco marco = new Frm_asignarmarco();
+            mostrarVentana(marco);
         }
     }
 }
