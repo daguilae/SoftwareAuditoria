@@ -81,5 +81,10 @@ namespace GestionProyecto
         {
 
         }
+
+        private void Frm_Evaluacion_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
