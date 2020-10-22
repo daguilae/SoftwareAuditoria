@@ -16,7 +16,7 @@ namespace GestionProyecto
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frm_InfoGeneral());
+            Application.Run(new Frm_Evaluacion());
         }
     }
 }

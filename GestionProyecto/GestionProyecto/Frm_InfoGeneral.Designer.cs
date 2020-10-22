@@ -73,33 +73,37 @@
             // 
             // textBox2
             // 
+            this.textBox2.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox2.Location = new System.Drawing.Point(412, 58);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(247, 20);
+            this.textBox2.Size = new System.Drawing.Size(247, 27);
             this.textBox2.TabIndex = 3;
             // 
             // textBox1
             // 
+            this.textBox1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(25, 58);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(266, 20);
+            this.textBox1.Size = new System.Drawing.Size(266, 27);
             this.textBox1.TabIndex = 2;
             // 
             // Lbl_Evaluaciones
             // 
             this.Lbl_Evaluaciones.AutoSize = true;
+            this.Lbl_Evaluaciones.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Lbl_Evaluaciones.Location = new System.Drawing.Point(409, 27);
             this.Lbl_Evaluaciones.Name = "Lbl_Evaluaciones";
-            this.Lbl_Evaluaciones.Size = new System.Drawing.Size(126, 13);
+            this.Lbl_Evaluaciones.Size = new System.Drawing.Size(200, 21);
             this.Lbl_Evaluaciones.TabIndex = 1;
             this.Lbl_Evaluaciones.Text = "Evaluaciones Realizadas";
             // 
             // Lbl_ID
             // 
             this.Lbl_ID.AutoSize = true;
+            this.Lbl_ID.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.Lbl_ID.Location = new System.Drawing.Point(22, 27);
             this.Lbl_ID.Name = "Lbl_ID";
-            this.Lbl_ID.Size = new System.Drawing.Size(74, 13);
+            this.Lbl_ID.Size = new System.Drawing.Size(118, 21);
             this.Lbl_ID.TabIndex = 0;
             this.Lbl_ID.Text = "ID Evaluación";
             // 
@@ -169,9 +173,10 @@
             // 
             // textBox6
             // 
+            this.textBox6.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox6.Location = new System.Drawing.Point(412, 149);
             this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(247, 20);
+            this.textBox6.Size = new System.Drawing.Size(247, 27);
             this.textBox6.TabIndex = 9;
             // 
             // textBox5
@@ -183,51 +188,57 @@
             // 
             // textBox4
             // 
+            this.textBox4.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox4.Location = new System.Drawing.Point(25, 149);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(266, 20);
+            this.textBox4.Size = new System.Drawing.Size(266, 27);
             this.textBox4.TabIndex = 7;
             // 
             // textBox3
             // 
+            this.textBox3.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox3.Location = new System.Drawing.Point(25, 76);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(266, 20);
+            this.textBox3.Size = new System.Drawing.Size(266, 27);
             this.textBox3.TabIndex = 6;
             // 
             // Lbl_AspectoaEvaluar
             // 
             this.Lbl_AspectoaEvaluar.AutoSize = true;
+            this.Lbl_AspectoaEvaluar.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Lbl_AspectoaEvaluar.Location = new System.Drawing.Point(409, 120);
             this.Lbl_AspectoaEvaluar.Name = "Lbl_AspectoaEvaluar";
-            this.Lbl_AspectoaEvaluar.Size = new System.Drawing.Size(94, 13);
+            this.Lbl_AspectoaEvaluar.Size = new System.Drawing.Size(155, 21);
             this.Lbl_AspectoaEvaluar.TabIndex = 5;
             this.Lbl_AspectoaEvaluar.Text = "Aspecto a Evaluar";
             // 
             // Lbl_MarcodeTrabajo
             // 
             this.Lbl_MarcodeTrabajo.AutoSize = true;
+            this.Lbl_MarcodeTrabajo.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Lbl_MarcodeTrabajo.Location = new System.Drawing.Point(409, 49);
             this.Lbl_MarcodeTrabajo.Name = "Lbl_MarcodeTrabajo";
-            this.Lbl_MarcodeTrabajo.Size = new System.Drawing.Size(91, 13);
+            this.Lbl_MarcodeTrabajo.Size = new System.Drawing.Size(149, 21);
             this.Lbl_MarcodeTrabajo.TabIndex = 4;
             this.Lbl_MarcodeTrabajo.Text = "Marco de Trabajo";
             // 
             // Lbl_GrupoaEvaluar
             // 
             this.Lbl_GrupoaEvaluar.AutoSize = true;
+            this.Lbl_GrupoaEvaluar.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Lbl_GrupoaEvaluar.Location = new System.Drawing.Point(22, 120);
             this.Lbl_GrupoaEvaluar.Name = "Lbl_GrupoaEvaluar";
-            this.Lbl_GrupoaEvaluar.Size = new System.Drawing.Size(84, 13);
+            this.Lbl_GrupoaEvaluar.Size = new System.Drawing.Size(138, 21);
             this.Lbl_GrupoaEvaluar.TabIndex = 3;
             this.Lbl_GrupoaEvaluar.Text = "Grupo a Evaluar";
             // 
             // Lbl_TiposdeAuditoria
             // 
             this.Lbl_TiposdeAuditoria.AutoSize = true;
+            this.Lbl_TiposdeAuditoria.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Lbl_TiposdeAuditoria.Location = new System.Drawing.Point(22, 49);
             this.Lbl_TiposdeAuditoria.Name = "Lbl_TiposdeAuditoria";
-            this.Lbl_TiposdeAuditoria.Size = new System.Drawing.Size(87, 13);
+            this.Lbl_TiposdeAuditoria.Size = new System.Drawing.Size(144, 21);
             this.Lbl_TiposdeAuditoria.TabIndex = 2;
             this.Lbl_TiposdeAuditoria.Text = "Tipo de Auditoria";
             // 
@@ -294,7 +305,7 @@
             this.Dtv_General.Size = new System.Drawing.Size(741, 220);
             this.Dtv_General.TabIndex = 15;
             // 
-            // InfoGeneral
+            // Frm_InfoGeneral
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -308,8 +319,7 @@
             this.Controls.Add(this.Btn_Nuevo);
             this.Controls.Add(this.Gpb_InfoGeneral);
             this.Controls.Add(this.Gpb_InfoEvaluacion);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "InfoGeneral";
+            this.Name = "Frm_InfoGeneral";
             this.Text = "InfoGeneral";
             this.Gpb_InfoEvaluacion.ResumeLayout(false);
             this.Gpb_InfoEvaluacion.PerformLayout();
