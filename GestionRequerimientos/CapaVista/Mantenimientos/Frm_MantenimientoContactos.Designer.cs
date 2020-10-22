@@ -37,19 +37,19 @@
             // lbl_titulo
             // 
             this.lbl_titulo.AutoSize = true;
-            this.lbl_titulo.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_titulo.Font = new System.Drawing.Font("Times New Roman", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_titulo.Location = new System.Drawing.Point(3, 0);
             this.lbl_titulo.Name = "lbl_titulo";
-            this.lbl_titulo.Size = new System.Drawing.Size(201, 21);
+            this.lbl_titulo.Size = new System.Drawing.Size(396, 42);
             this.lbl_titulo.TabIndex = 1;
             this.lbl_titulo.Text = "Mantenimiento Contactos";
             // 
             // navegador2
             // 
             this.navegador2.BackColor = System.Drawing.Color.White;
-            this.navegador2.Location = new System.Drawing.Point(3, 24);
+            this.navegador2.Location = new System.Drawing.Point(3, 45);
             this.navegador2.Name = "navegador2";
-            this.navegador2.Size = new System.Drawing.Size(853, 662);
+            this.navegador2.Size = new System.Drawing.Size(853, 641);
             this.navegador2.TabIndex = 2;
             // 
             // tableLayoutPanel1

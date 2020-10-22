@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "GestionRequerimientos\CapaDatos.csproj", "{29A9196E-E05C-4ECB-A39F-11AAB3920B85}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionRequerimientosCM", "GestionRequerimientos\GestionRequerimientosCM.csproj", "{29A9196E-E05C-4ECB-A39F-11AAB3920B85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaVista", "CapaVista\CapaVista.csproj", "{C3843CB6-00E7-486D-9C6B-593087769A68}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionRequerimientosCV", "CapaVista\GestionRequerimientosCV.csproj", "{C3843CB6-00E7-486D-9C6B-593087769A68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaLogica", "CapaLogica\CapaLogica.csproj", "{F90ECE55-3A8B-4643-B7DB-CBB13EF104C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionRequerimientosCC", "CapaLogica\GestionRequerimientosCC.csproj", "{F90ECE55-3A8B-4643-B7DB-CBB13EF104C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
