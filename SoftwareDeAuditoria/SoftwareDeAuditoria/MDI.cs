@@ -35,76 +35,70 @@ namespace SoftwareDeAuditoria
             form.Show();
         }
 
-        private void mantenimientosToolStripMenuItem_Click(object sender, EventArgs e)
+        private void asignacionDeMarcoToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            Frm_mantenimiento mantenimiento = new Frm_mantenimiento();
-            mostrarVentana(mantenimiento);
+            Frm_asignarmarco marco = new Frm_asignarmarco();
+            mostrarVentana(marco);
         }
 
-        private void asignacionDeRecursosToolStripMenuItem_Click(object sender, EventArgs e)
+        private void recursosToolStripMenuItem3_Click(object sender, EventArgs e)
         {
-            Frm_AsignacionDeRecursos asignacionDeRecursos = new Frm_AsignacionDeRecursos();
-            mostrarVentana(asignacionDeRecursos);
+            Frm_mantenimiento mantenimientoRecursos = new Frm_mantenimiento();
+            mostrarVentana(mantenimientoRecursos);
         }
 
-        private void auditoresToolStripMenuItem_Click(object sender, EventArgs e)
+        private void auditoresToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
             Frm_MantenimientoAuditores auditores = new Frm_MantenimientoAuditores();
             mostrarVentana(auditores);
         }
 
-        private void contactosToolStripMenuItem_Click(object sender, EventArgs e)
+        private void contactosToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
             Frm_MantenimientoContactos contactos = new Frm_MantenimientoContactos();
             mostrarVentana(contactos);
         }
 
-        private void departamentoToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Frm_MantenimientoDepartamentos departamentos = new Frm_MantenimientoDepartamentos();
-            mostrarVentana(departamentos);
-        }
-
-        private void empresaToolStripMenuItem_Click(object sender, EventArgs e)
+        private void empresasToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             Frm_MantenimientoEmpresa empresa = new Frm_MantenimientoEmpresa();
             mostrarVentana(empresa);
         }
 
-        private void reportesToolStripMenuItem1_Click(object sender, EventArgs e)
+        private void departamentosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Frm_reportes reporte = new Frm_reportes();
-            mostrarVentana(reporte);
+            Frm_MantenimientoDepartamentos departamentos = new Frm_MantenimientoDepartamentos();
+            mostrarVentana(departamentos);
         }
 
-        private void gestionDeMarcosToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Frm_asignarmarco marco = new Frm_asignarmarco();
-            mostrarVentana(marco);
-        }
-
-        private void informacionGeneralToolStripMenuItem_Click(object sender, EventArgs e)
+        private void informacionGeneralToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             Frm_InfoGeneral general = new Frm_InfoGeneral();
             mostrarVentana(general);
         }
 
-        private void evaluacionesToolStripMenuItem_Click(object sender, EventArgs e)
+        private void evaluacionesToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             Frm_Evaluacion evaluacion = new Frm_Evaluacion();
             mostrarVentana(evaluacion);
         }
 
-        private void registroDeMarcoToolStripMenuItem_Click(object sender, EventArgs e)
+        private void registroDeMarcoToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             Frm_registrarmarco marco = new Frm_registrarmarco();
             mostrarVentana(marco);
         }
 
-        private void asignacionDeMarcoToolStripMenuItem_Click(object sender, EventArgs e)
+        private void asignacionDeRecursosToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            Frm_asignarmarco marco = new Frm_asignarmarco();
-            mostrarVentana(marco);
+            Frm_AsignacionDeRecursos asignacionDeRecursos = new Frm_AsignacionDeRecursos();
+            mostrarVentana(asignacionDeRecursos);
+        }
+
+        private void reportesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frm_reportes reporte = new Frm_reportes();
+            mostrarVentana(reporte);
         }
     }
 }
