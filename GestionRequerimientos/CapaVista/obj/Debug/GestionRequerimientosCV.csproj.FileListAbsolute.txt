@@ -1,7 +1,4 @@
-C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\CapaVista.dll
-C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\CapaVista.pdb
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\CapaDeDiseno.dll
-C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\CapaLogica.dll
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\CapaDeLogica.dll
@@ -42,5 +39,7 @@ C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\obj\Debug\GestionRequerimientosCV.csproj.GenerateResource.cache
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\obj\Debug\GestionRequerimientosCV.csproj.CoreCompileInputs.cache
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\obj\Debug\GestionRequerimientosCV.csproj.CopyComplete
-C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\obj\Debug\CapaVista.dll
-C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\obj\Debug\GestionRequerimientosCV.dll
+C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\obj\Debug\GestionRequerimientosCV.pdb
+C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\GestionRequerimientosCV.dll
+C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\GestionRequerimientosCV.pdb
