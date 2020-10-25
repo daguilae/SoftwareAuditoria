@@ -37,10 +37,6 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>Y:\Google Drive\Bienestar S.A\Formación\DLLS\Navegador\CapaDeDiseno\bin\Debug\CapaDeDiseno.dll</HintPath>
     </Reference>
-    <Reference Include="CapaVista, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\GestionRequerimientos\(General)\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\CapaVista.dll</HintPath>
-    </Reference>
     <Reference Include="GestionDeRecursosCV">
       <HintPath>..\..\..\GestionRecursos\(Personal)\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\bin\Debug\GestionDeRecursosCV.dll</HintPath>
     </Reference>
@@ -52,6 +48,9 @@
     </Reference>
     <Reference Include="GestionRequerimientos">
       <HintPath>..\..\..\GestionRequerimientos\(General)\SoftwareAuditoria\GestionRequerimientos\GestionRequerimientos\bin\Debug\GestionRequerimientos.dll</HintPath>
+    </Reference>
+    <Reference Include="GestionRequerimientosCV">
+      <HintPath>..\..\..\GestionRequerimientos\(General)\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\GestionRequerimientosCV.dll</HintPath>
     </Reference>
     <Reference Include="MarcosDeTrabajoCV">
       <HintPath>..\..\..\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\MarcosDeTrabajoCV.dll</HintPath>
