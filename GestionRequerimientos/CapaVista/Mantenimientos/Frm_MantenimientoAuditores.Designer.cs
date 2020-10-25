@@ -37,19 +37,19 @@
             // lbl_titulo
             // 
             this.lbl_titulo.AutoSize = true;
-            this.lbl_titulo.Font = new System.Drawing.Font("Times New Roman", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_titulo.Font = new System.Drawing.Font("Century Gothic", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_titulo.Location = new System.Drawing.Point(3, 0);
             this.lbl_titulo.Name = "lbl_titulo";
-            this.lbl_titulo.Size = new System.Drawing.Size(389, 42);
+            this.lbl_titulo.Size = new System.Drawing.Size(466, 44);
             this.lbl_titulo.TabIndex = 2;
             this.lbl_titulo.Text = "Mantenimiento Auditores";
             // 
             // navegador2
             // 
             this.navegador2.BackColor = System.Drawing.Color.White;
-            this.navegador2.Location = new System.Drawing.Point(3, 45);
+            this.navegador2.Location = new System.Drawing.Point(3, 47);
             this.navegador2.Name = "navegador2";
-            this.navegador2.Size = new System.Drawing.Size(850, 633);
+            this.navegador2.Size = new System.Drawing.Size(850, 631);
             this.navegador2.TabIndex = 152;
             // 
             // tableLayoutPanel1
@@ -75,7 +75,7 @@
             this.ClientSize = new System.Drawing.Size(856, 681);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Frm_MantenimientoAuditores";
-            this.Text = "Frm_MantenimientoAuditores";
+            this.Text = "Mantenimiento Auditores";
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);
