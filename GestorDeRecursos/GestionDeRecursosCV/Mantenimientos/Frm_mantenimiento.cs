@@ -24,7 +24,7 @@ namespace GestionRecursosCV.Mantenimientos
             InitializeComponent();
             usuario = user;
             noTabla = tbl;
-            Pnl_Titulo.BackColor = Color.Aquamarine;
+            
             Cls_Mantenimientos Mant = new Cls_Mantenimientos();
             Nav_Mantenimiento.setBd(nombreBd);
 
@@ -64,7 +64,9 @@ namespace GestionRecursosCV.Mantenimientos
 
         private void navegador1_Load(object sender, EventArgs e)
         {
-
+            Nav_Mantenimiento.ObtenerIdUsuario("MyUsuario");
+            Nav_Mantenimiento.botonesYPermisosInicial("MyUsuario", "1");
+            Nav_Mantenimiento.ObtenerIdAplicacion("1");
         }
     }
 }

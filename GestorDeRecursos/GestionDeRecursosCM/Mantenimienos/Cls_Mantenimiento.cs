@@ -32,6 +32,18 @@ namespace GestionRecursosCM.Mantenimienos
         {
             switch (tabla)
             {
+                case 1: //instrumentos
+                    string[] alias1 = { "Instrumentos", "Nombre", "Descripción", "Estado" };
+                    return (alias1, "1", "instrumentos", "Instrumento", "INSTRUMENTOS", 0);
+
+                case 2: //recursos
+                    string[] alias2 = { "Recursos", "TipoRecurso", "Nombre", "Descripción", "Estado" };
+                    return (alias2, "2", "recursos", "de recursos", "RECURSOS", 1);
+
+                case 3: //tipo recurso
+                    string[] alias3 = { "TipoRecursos", "Nombre", "Descripción", "Estado" };
+                    return (alias3, "3", "tiporecursos", "de Recursos", "TIPORECURSOS", 0);
+
                 default:
                     break;
             }
@@ -42,7 +54,23 @@ namespace GestionRecursosCM.Mantenimienos
         {
             switch (tabla)
             {
-               
+                //instrumentos
+                case 1:
+                    break;
+
+                //recursos
+                case 2:
+                    switch (no)
+                    {
+                        case 1:
+                            return ("tiporecursos", "ID_TipoRecurso", 0);
+                    }
+                    break;
+
+                //Tipo Recursos
+                case 3:
+                    break;
+
                 default:
                     break;
             }
