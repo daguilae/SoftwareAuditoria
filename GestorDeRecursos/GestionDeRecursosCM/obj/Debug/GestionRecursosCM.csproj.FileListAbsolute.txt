@@ -4,3 +4,12 @@
 \\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\obj\Debug\GestionRecursosCM.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\obj\Debug\GestionRecursosCM.dll
 \\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\obj\Debug\GestionRecursosCM.pdb
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionRecursos\(Personal)\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\bin\Debug\GestionRecursosCM.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionRecursos\(Personal)\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\bin\Debug\GestionRecursosCM.pdb
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionRecursos\(Personal)\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\bin\Debug\GestionRecursosCC.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionRecursos\(Personal)\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\bin\Debug\GestionRecursosCC.pdb
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionRecursos\(Personal)\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\obj\Debug\GestionRecursosCM.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionRecursos\(Personal)\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\obj\Debug\GestionRecursosCM.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionRecursos\(Personal)\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\obj\Debug\GestionRecursosCM.csproj.CopyComplete
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionRecursos\(Personal)\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\obj\Debug\GestionRecursosCM.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionRecursos\(Personal)\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCM\obj\Debug\GestionRecursosCM.pdb
