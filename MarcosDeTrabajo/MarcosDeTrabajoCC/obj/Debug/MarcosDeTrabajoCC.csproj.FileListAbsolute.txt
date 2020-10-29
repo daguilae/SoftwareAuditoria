@@ -7,3 +7,12 @@ C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCC\bin\Debug\MarcosDeTraba
 C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCC\bin\Debug\MarcosDeTrabajoCM.pdb
 C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.csprojAssemblyReference.cache
 C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.csproj.CopyComplete
+C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\bin\Debug\MarcosDeTrabajoCC.dll
+C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\bin\Debug\MarcosDeTrabajoCC.pdb
+C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\bin\Debug\MarcosDeTrabajoCM.dll
+C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\bin\Debug\MarcosDeTrabajoCM.pdb
+C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.csprojAssemblyReference.cache
+C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.csproj.CopyComplete
+C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.dll
+C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.pdb

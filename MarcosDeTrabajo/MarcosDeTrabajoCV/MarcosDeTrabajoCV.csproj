@@ -31,6 +31,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CapaDeDiseno">
+      <HintPath>..\Navegador\CapaDeDiseno\bin\Debug\CapaDeDiseno.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
     <Reference Include="MarcosDeTrabajoCC">
       <HintPath>..\MarcosDeTrabajoCC\bin\Debug\MarcosDeTrabajoCC.dll</HintPath>
     </Reference>
@@ -52,6 +57,12 @@
     <Compile Include="Frm_asignarmarco.Designer.cs">
       <DependentUpon>Frm_asignarmarco.cs</DependentUpon>
     </Compile>
+    <Compile Include="Frm_mantenimientotiposprocesos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_mantenimientotiposprocesos.Designer.cs">
+      <DependentUpon>Frm_mantenimientotiposprocesos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Frm_registrarmarco.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -63,6 +74,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Frm_asignarmarco.resx">
       <DependentUpon>Frm_asignarmarco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_mantenimientotiposprocesos.resx">
+      <DependentUpon>Frm_mantenimientotiposprocesos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_registrarmarco.resx">
       <DependentUpon>Frm_registrarmarco.cs</DependentUpon>
