@@ -76,6 +76,7 @@
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Frm_MantenimientoAuditores";
             this.Text = "Mantenimiento Auditores";
+            this.Load += new System.EventHandler(this.Frm_MantenimientoAuditores_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);
