@@ -35,7 +35,7 @@
             this.Pnl_Icono = new System.Windows.Forms.Panel();
             this.Lbl_Mantenimiento = new System.Windows.Forms.Label();
             this.Pnl_Contenido = new System.Windows.Forms.Panel();
-            this.navegador1 = new CapaDeDiseno.Navegador();
+            this.Nav_Mantenimiento = new CapaDeDiseno.Navegador();
             this.Pnl_General.SuspendLayout();
             this.Tlp_General.SuspendLayout();
             this.Pnl_Titulo.SuspendLayout();
@@ -120,7 +120,7 @@
             // 
             // Pnl_Contenido
             // 
-            this.Pnl_Contenido.Controls.Add(this.navegador1);
+            this.Pnl_Contenido.Controls.Add(this.Nav_Mantenimiento);
             this.Pnl_Contenido.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Pnl_Contenido.Location = new System.Drawing.Point(3, 78);
             this.Pnl_Contenido.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
@@ -128,15 +128,16 @@
             this.Pnl_Contenido.Size = new System.Drawing.Size(987, 667);
             this.Pnl_Contenido.TabIndex = 1;
             // 
-            // navegador1
+            // Nav_Mantenimiento
             // 
-            this.navegador1.BackColor = System.Drawing.Color.White;
-            this.navegador1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.navegador1.Location = new System.Drawing.Point(0, 0);
-            this.navegador1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.navegador1.Name = "navegador1";
-            this.navegador1.Size = new System.Drawing.Size(987, 667);
-            this.navegador1.TabIndex = 0;
+            this.Nav_Mantenimiento.BackColor = System.Drawing.Color.White;
+            this.Nav_Mantenimiento.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Nav_Mantenimiento.Location = new System.Drawing.Point(0, 0);
+            this.Nav_Mantenimiento.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Nav_Mantenimiento.Name = "Nav_Mantenimiento";
+            this.Nav_Mantenimiento.Size = new System.Drawing.Size(987, 667);
+            this.Nav_Mantenimiento.TabIndex = 0;
+            this.Nav_Mantenimiento.Load += new System.EventHandler(this.navegador1_Load);
             // 
             // Frm_mantenimiento
             // 
@@ -167,6 +168,6 @@
         private System.Windows.Forms.Panel Pnl_Icono;
         private System.Windows.Forms.Label Lbl_Mantenimiento;
         private System.Windows.Forms.Panel Pnl_Contenido;
-        private CapaDeDiseno.Navegador navegador1;
+        private CapaDeDiseno.Navegador Nav_Mantenimiento;
     }
 }
