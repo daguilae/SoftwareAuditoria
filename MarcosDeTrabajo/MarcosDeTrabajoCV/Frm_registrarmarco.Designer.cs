@@ -30,20 +30,6 @@
         {
             this.Lbl_titulo = new System.Windows.Forms.Label();
             this.Tbc_gestionmarcos = new System.Windows.Forms.TabControl();
-            this.Tbp_marcosdetrabajo = new System.Windows.Forms.TabPage();
-            this.Dgv_marcosdetrabajo = new System.Windows.Forms.DataGridView();
-            this.Btn_nuevon = new System.Windows.Forms.Button();
-            this.Btn_eliminare = new System.Windows.Forms.Button();
-            this.Btn_modificarm = new System.Windows.Forms.Button();
-            this.Btn_agregarm = new System.Windows.Forms.Button();
-            this.Cbo_estadomarco = new System.Windows.Forms.ComboBox();
-            this.Txt_descripcion = new System.Windows.Forms.TextBox();
-            this.Txt_nombremarco = new System.Windows.Forms.TextBox();
-            this.Txt_codigomarco = new System.Windows.Forms.TextBox();
-            this.Lbl_estadomarco = new System.Windows.Forms.Label();
-            this.Lbl_descripcionmarco = new System.Windows.Forms.Label();
-            this.Lbl_nombremarco = new System.Windows.Forms.Label();
-            this.Lbl_codigomarco = new System.Windows.Forms.Label();
             this.Tbp_procesos = new System.Windows.Forms.TabPage();
             this.Cbo_seleccionmarcop = new System.Windows.Forms.ComboBox();
             this.Dgv_procesos = new System.Windows.Forms.DataGridView();
@@ -78,8 +64,6 @@
             this.Btn_agregaro = new System.Windows.Forms.Button();
             this.Pnl_marcosdetrabajo = new System.Windows.Forms.Panel();
             this.Tbc_gestionmarcos.SuspendLayout();
-            this.Tbp_marcosdetrabajo.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Dgv_marcosdetrabajo)).BeginInit();
             this.Tbp_procesos.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Dgv_procesos)).BeginInit();
             this.Tbp_objetivos.SuspendLayout();
@@ -101,7 +85,6 @@
             // 
             // Tbc_gestionmarcos
             // 
-            this.Tbc_gestionmarcos.Controls.Add(this.Tbp_marcosdetrabajo);
             this.Tbc_gestionmarcos.Controls.Add(this.Tbp_procesos);
             this.Tbc_gestionmarcos.Controls.Add(this.Tbp_objetivos);
             this.Tbc_gestionmarcos.Location = new System.Drawing.Point(29, 81);
@@ -109,150 +92,6 @@
             this.Tbc_gestionmarcos.SelectedIndex = 0;
             this.Tbc_gestionmarcos.Size = new System.Drawing.Size(811, 470);
             this.Tbc_gestionmarcos.TabIndex = 1;
-            // 
-            // Tbp_marcosdetrabajo
-            // 
-            this.Tbp_marcosdetrabajo.Controls.Add(this.Dgv_marcosdetrabajo);
-            this.Tbp_marcosdetrabajo.Controls.Add(this.Btn_nuevon);
-            this.Tbp_marcosdetrabajo.Controls.Add(this.Btn_eliminare);
-            this.Tbp_marcosdetrabajo.Controls.Add(this.Btn_modificarm);
-            this.Tbp_marcosdetrabajo.Controls.Add(this.Btn_agregarm);
-            this.Tbp_marcosdetrabajo.Controls.Add(this.Cbo_estadomarco);
-            this.Tbp_marcosdetrabajo.Controls.Add(this.Txt_descripcion);
-            this.Tbp_marcosdetrabajo.Controls.Add(this.Txt_nombremarco);
-            this.Tbp_marcosdetrabajo.Controls.Add(this.Txt_codigomarco);
-            this.Tbp_marcosdetrabajo.Controls.Add(this.Lbl_estadomarco);
-            this.Tbp_marcosdetrabajo.Controls.Add(this.Lbl_descripcionmarco);
-            this.Tbp_marcosdetrabajo.Controls.Add(this.Lbl_nombremarco);
-            this.Tbp_marcosdetrabajo.Controls.Add(this.Lbl_codigomarco);
-            this.Tbp_marcosdetrabajo.Location = new System.Drawing.Point(4, 30);
-            this.Tbp_marcosdetrabajo.Name = "Tbp_marcosdetrabajo";
-            this.Tbp_marcosdetrabajo.Padding = new System.Windows.Forms.Padding(3);
-            this.Tbp_marcosdetrabajo.Size = new System.Drawing.Size(803, 436);
-            this.Tbp_marcosdetrabajo.TabIndex = 0;
-            this.Tbp_marcosdetrabajo.Text = "Marcos de Trabajo";
-            this.Tbp_marcosdetrabajo.UseVisualStyleBackColor = true;
-            // 
-            // Dgv_marcosdetrabajo
-            // 
-            this.Dgv_marcosdetrabajo.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.Dgv_marcosdetrabajo.Location = new System.Drawing.Point(17, 255);
-            this.Dgv_marcosdetrabajo.Name = "Dgv_marcosdetrabajo";
-            this.Dgv_marcosdetrabajo.Size = new System.Drawing.Size(767, 166);
-            this.Dgv_marcosdetrabajo.TabIndex = 12;
-            // 
-            // Btn_nuevon
-            // 
-            this.Btn_nuevon.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(165)))), ((int)(((byte)(132)))), ((int)(((byte)(197)))));
-            this.Btn_nuevon.ForeColor = System.Drawing.Color.Black;
-            this.Btn_nuevon.Location = new System.Drawing.Point(560, 159);
-            this.Btn_nuevon.Name = "Btn_nuevon";
-            this.Btn_nuevon.Size = new System.Drawing.Size(111, 38);
-            this.Btn_nuevon.TabIndex = 11;
-            this.Btn_nuevon.Text = "Nuevo";
-            this.Btn_nuevon.UseVisualStyleBackColor = false;
-            // 
-            // Btn_eliminare
-            // 
-            this.Btn_eliminare.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(165)))), ((int)(((byte)(132)))), ((int)(((byte)(197)))));
-            this.Btn_eliminare.ForeColor = System.Drawing.Color.Black;
-            this.Btn_eliminare.Location = new System.Drawing.Point(560, 115);
-            this.Btn_eliminare.Name = "Btn_eliminare";
-            this.Btn_eliminare.Size = new System.Drawing.Size(111, 38);
-            this.Btn_eliminare.TabIndex = 10;
-            this.Btn_eliminare.Text = "Eliminar";
-            this.Btn_eliminare.UseVisualStyleBackColor = false;
-            // 
-            // Btn_modificarm
-            // 
-            this.Btn_modificarm.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(165)))), ((int)(((byte)(132)))), ((int)(((byte)(197)))));
-            this.Btn_modificarm.ForeColor = System.Drawing.Color.Black;
-            this.Btn_modificarm.Location = new System.Drawing.Point(560, 67);
-            this.Btn_modificarm.Name = "Btn_modificarm";
-            this.Btn_modificarm.Size = new System.Drawing.Size(111, 38);
-            this.Btn_modificarm.TabIndex = 9;
-            this.Btn_modificarm.Text = "Modificar";
-            this.Btn_modificarm.UseVisualStyleBackColor = false;
-            // 
-            // Btn_agregarm
-            // 
-            this.Btn_agregarm.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(165)))), ((int)(((byte)(132)))), ((int)(((byte)(197)))));
-            this.Btn_agregarm.ForeColor = System.Drawing.Color.Black;
-            this.Btn_agregarm.Location = new System.Drawing.Point(560, 23);
-            this.Btn_agregarm.Name = "Btn_agregarm";
-            this.Btn_agregarm.Size = new System.Drawing.Size(111, 38);
-            this.Btn_agregarm.TabIndex = 8;
-            this.Btn_agregarm.Text = "Agregar";
-            this.Btn_agregarm.UseVisualStyleBackColor = false;
-            // 
-            // Cbo_estadomarco
-            // 
-            this.Cbo_estadomarco.FormattingEnabled = true;
-            this.Cbo_estadomarco.Location = new System.Drawing.Point(255, 203);
-            this.Cbo_estadomarco.Name = "Cbo_estadomarco";
-            this.Cbo_estadomarco.Size = new System.Drawing.Size(240, 29);
-            this.Cbo_estadomarco.TabIndex = 7;
-            // 
-            // Txt_descripcion
-            // 
-            this.Txt_descripcion.Location = new System.Drawing.Point(255, 108);
-            this.Txt_descripcion.Multiline = true;
-            this.Txt_descripcion.Name = "Txt_descripcion";
-            this.Txt_descripcion.Size = new System.Drawing.Size(240, 82);
-            this.Txt_descripcion.TabIndex = 6;
-            // 
-            // Txt_nombremarco
-            // 
-            this.Txt_nombremarco.Location = new System.Drawing.Point(255, 67);
-            this.Txt_nombremarco.Name = "Txt_nombremarco";
-            this.Txt_nombremarco.Size = new System.Drawing.Size(240, 27);
-            this.Txt_nombremarco.TabIndex = 5;
-            this.Txt_nombremarco.TextChanged += new System.EventHandler(this.Txt_nombremarco_TextChanged);
-            // 
-            // Txt_codigomarco
-            // 
-            this.Txt_codigomarco.Location = new System.Drawing.Point(255, 28);
-            this.Txt_codigomarco.Name = "Txt_codigomarco";
-            this.Txt_codigomarco.Size = new System.Drawing.Size(240, 27);
-            this.Txt_codigomarco.TabIndex = 4;
-            // 
-            // Lbl_estadomarco
-            // 
-            this.Lbl_estadomarco.AutoSize = true;
-            this.Lbl_estadomarco.Location = new System.Drawing.Point(185, 203);
-            this.Lbl_estadomarco.Name = "Lbl_estadomarco";
-            this.Lbl_estadomarco.Size = new System.Drawing.Size(64, 21);
-            this.Lbl_estadomarco.TabIndex = 3;
-            this.Lbl_estadomarco.Text = "Estado";
-            // 
-            // Lbl_descripcionmarco
-            // 
-            this.Lbl_descripcionmarco.AutoSize = true;
-            this.Lbl_descripcionmarco.Location = new System.Drawing.Point(149, 108);
-            this.Lbl_descripcionmarco.Name = "Lbl_descripcionmarco";
-            this.Lbl_descripcionmarco.Size = new System.Drawing.Size(100, 21);
-            this.Lbl_descripcionmarco.TabIndex = 2;
-            this.Lbl_descripcionmarco.Text = "Descripción";
-            // 
-            // Lbl_nombremarco
-            // 
-            this.Lbl_nombremarco.AutoSize = true;
-            this.Lbl_nombremarco.Location = new System.Drawing.Point(93, 67);
-            this.Lbl_nombremarco.Name = "Lbl_nombremarco";
-            this.Lbl_nombremarco.Size = new System.Drawing.Size(156, 21);
-            this.Lbl_nombremarco.TabIndex = 1;
-            this.Lbl_nombremarco.Text = "Nombre del Marco";
-            this.Lbl_nombremarco.Click += new System.EventHandler(this.Lbl_nombremarco_Click);
-            // 
-            // Lbl_codigomarco
-            // 
-            this.Lbl_codigomarco.AutoSize = true;
-            this.Lbl_codigomarco.Location = new System.Drawing.Point(181, 28);
-            this.Lbl_codigomarco.Name = "Lbl_codigomarco";
-            this.Lbl_codigomarco.Size = new System.Drawing.Size(68, 21);
-            this.Lbl_codigomarco.TabIndex = 0;
-            this.Lbl_codigomarco.Text = "Código";
-            this.Lbl_codigomarco.Click += new System.EventHandler(this.label2_Click);
             // 
             // Tbp_procesos
             // 
@@ -593,9 +432,6 @@
             this.Name = "Frm_registrarmarco";
             this.Text = "Gestión de Marcos de Trabajo";
             this.Tbc_gestionmarcos.ResumeLayout(false);
-            this.Tbp_marcosdetrabajo.ResumeLayout(false);
-            this.Tbp_marcosdetrabajo.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Dgv_marcosdetrabajo)).EndInit();
             this.Tbp_procesos.ResumeLayout(false);
             this.Tbp_procesos.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Dgv_procesos)).EndInit();
@@ -612,22 +448,8 @@
 
         private System.Windows.Forms.Label Lbl_titulo;
         private System.Windows.Forms.TabControl Tbc_gestionmarcos;
-        private System.Windows.Forms.TabPage Tbp_marcosdetrabajo;
-        private System.Windows.Forms.Label Lbl_codigomarco;
         private System.Windows.Forms.TabPage Tbp_procesos;
         private System.Windows.Forms.TabPage Tbp_objetivos;
-        private System.Windows.Forms.TextBox Txt_codigomarco;
-        private System.Windows.Forms.Label Lbl_estadomarco;
-        private System.Windows.Forms.Label Lbl_descripcionmarco;
-        private System.Windows.Forms.Label Lbl_nombremarco;
-        private System.Windows.Forms.TextBox Txt_nombremarco;
-        private System.Windows.Forms.TextBox Txt_descripcion;
-        private System.Windows.Forms.ComboBox Cbo_estadomarco;
-        private System.Windows.Forms.DataGridView Dgv_marcosdetrabajo;
-        private System.Windows.Forms.Button Btn_nuevon;
-        private System.Windows.Forms.Button Btn_eliminare;
-        private System.Windows.Forms.Button Btn_modificarm;
-        private System.Windows.Forms.Button Btn_agregarm;
         private System.Windows.Forms.DataGridView Dgv_procesos;
         private System.Windows.Forms.Button Btn_nuevop;
         private System.Windows.Forms.Button Btn_eliminarp;
