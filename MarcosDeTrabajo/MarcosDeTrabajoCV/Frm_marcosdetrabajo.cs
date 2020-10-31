@@ -10,24 +10,22 @@ using System.Windows.Forms;
 
 namespace MarcosDeTrabajoCV
 {
-    public partial class Frm_asignarmarco : Form
+    public partial class Frm_marcosdetrabajo : Form
     {
         string usuario = "";
-        public Frm_asignarmarco(string user, string namebd)
+        public Frm_marcosdetrabajo(string user, string namebd)
         {
             InitializeComponent();            
                         
             usuario = user;
             Nav_marcosdetrabajo.setBd(namebd);
-            string[] alias = { "Marco", "Empresa", "Fecha de Asignación", "Estado" };
+            string[] alias = { "Codigo Marco", "Nombre Marco", "Descripcion", "Estado" };
             Nav_marcosdetrabajo.asignarAlias(alias);
             Nav_marcosdetrabajo.asignarSalida(this);            
             Nav_marcosdetrabajo.asignarColorFondo(Color.White);
             Nav_marcosdetrabajo.asignarColorFuente(Color.Black);
             Nav_marcosdetrabajo.asignarAyuda("1");
-            Nav_marcosdetrabajo.asignarComboConTabla("marcotrabajo", "Nombre_MarcoTrabajo", 1);
-            Nav_marcosdetrabajo.asignarComboConTabla("empresa", "Nombre_Empresa", 1);
-            Nav_marcosdetrabajo.asignarTabla("marcotrabajo_has_empresa");
+            Nav_marcosdetrabajo.asignarTabla("marcotrabajo");
             Nav_marcosdetrabajo.asignarNombreForm("");
         }
 
@@ -37,6 +35,11 @@ namespace MarcosDeTrabajoCV
             Nav_marcosdetrabajo.ObtenerIdUsuario(usuario);
             Nav_marcosdetrabajo.botonesYPermisosInicial(usuario, aplicacionActiva);
             Nav_marcosdetrabajo.ObtenerIdAplicacion(aplicacionActiva);
+        }
+
+        private void Frm_marcosdetrabajo_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

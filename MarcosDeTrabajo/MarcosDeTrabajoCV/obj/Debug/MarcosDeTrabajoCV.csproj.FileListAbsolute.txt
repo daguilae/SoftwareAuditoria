@@ -100,3 +100,4 @@ C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\D
 C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.csproj.CopyComplete
 C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.dll
 C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.pdb
+C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.Frm_marcosdetrabajo.resources
