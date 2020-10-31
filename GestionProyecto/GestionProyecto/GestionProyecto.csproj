@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CapaDeDiseno">
+      <HintPath>..\..\Navegador\CapaDeDiseno\bin\Debug\CapaDeDiseno.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -64,6 +67,18 @@
     <Compile Include="Frm_InfoGeneral.Designer.cs">
       <DependentUpon>Frm_InfoGeneral.cs</DependentUpon>
     </Compile>
+    <Compile Include="Mantenimientos\Frm_MantInstrumentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_MantInstrumentos.Designer.cs">
+      <DependentUpon>Frm_MantInstrumentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_MantTipodeevaluacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_MantTipodeevaluacion.Designer.cs">
+      <DependentUpon>Frm_MantTipodeevaluacion.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Frm_Evaluacion.resx">
@@ -74,6 +89,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_InfoGeneral.resx">
       <DependentUpon>Frm_InfoGeneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_MantInstrumentos.resx">
+      <DependentUpon>Frm_MantInstrumentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_MantTipodeevaluacion.resx">
+      <DependentUpon>Frm_MantTipodeevaluacion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -97,5 +118,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
