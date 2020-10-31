@@ -10,3 +10,9 @@ C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo
 C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCM\obj\Debug\MarcosDeTrabajoCM.csproj.CoreCompileInputs.cache
 C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCM\obj\Debug\MarcosDeTrabajoCM.dll
 C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCM\obj\Debug\MarcosDeTrabajoCM.pdb
+C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCM\bin\Debug\MarcosDeTrabajoCM.dll
+C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCM\bin\Debug\MarcosDeTrabajoCM.pdb
+C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCM\obj\Debug\MarcosDeTrabajoCM.csprojAssemblyReference.cache
+C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCM\obj\Debug\MarcosDeTrabajoCM.csproj.CoreCompileInputs.cache
+C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCM\obj\Debug\MarcosDeTrabajoCM.dll
+C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCM\obj\Debug\MarcosDeTrabajoCM.pdb
