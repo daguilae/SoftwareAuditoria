@@ -1,8 +1,0 @@
-C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajo\bin\Debug\MarcosDeTrabajo.dll
-C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajo\bin\Debug\MarcosDeTrabajo.pdb
-C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajo\obj\Debug\MarcosDeTrabajo.csprojAssemblyReference.cache
-C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajo\obj\Debug\MarcosDeTrabajo.Frm_registrarmarco.resources
-C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajo\obj\Debug\MarcosDeTrabajo.csproj.GenerateResource.cache
-C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajo\obj\Debug\MarcosDeTrabajo.csproj.CoreCompileInputs.cache
-C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajo\obj\Debug\MarcosDeTrabajo.dll
-C:\Users\Randy\Desktop\MarcosDeTrabajo\MarcosDeTrabajo\obj\Debug\MarcosDeTrabajo.pdb
