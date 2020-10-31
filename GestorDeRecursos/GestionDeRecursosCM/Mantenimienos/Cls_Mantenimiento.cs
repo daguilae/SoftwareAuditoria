@@ -38,11 +38,11 @@ namespace GestionRecursosCM.Mantenimienos
 
                 case 2: //recursos
                     string[] alias2 = { "Recursos", "TipoRecurso", "Nombre", "Descripción", "Estado" };
-                    return (alias2, "2", "recursos", "de recursos", "RECURSOS", 1);
+                    return (alias2, "1", "recursos", "de recursos", "RECURSOS", 1);
 
                 case 3: //tipo recurso
                     string[] alias3 = { "TipoRecursos", "Nombre", "Descripción", "Estado" };
-                    return (alias3, "3", "tiporecursos", "de Recursos", "TIPORECURSOS", 0);
+                    return (alias3, "1", "tiporecursos", "de Recursos", "TIPORECURSOS", 0);
 
                 default:
                     break;
