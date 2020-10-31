@@ -63,12 +63,6 @@
     <Compile Include="Frm_mantenimientotiposprocesos.Designer.cs">
       <DependentUpon>Frm_mantenimientotiposprocesos.cs</DependentUpon>
     </Compile>
-    <Compile Include="Frm_marcosdetrabajo.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Frm_marcosdetrabajo.Designer.cs">
-      <DependentUpon>Frm_marcosdetrabajo.cs</DependentUpon>
-    </Compile>
     <Compile Include="Frm_registrarmarco.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -83,9 +77,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_mantenimientotiposprocesos.resx">
       <DependentUpon>Frm_mantenimientotiposprocesos.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Frm_marcosdetrabajo.resx">
-      <DependentUpon>Frm_marcosdetrabajo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_registrarmarco.resx">
       <DependentUpon>Frm_registrarmarco.cs</DependentUpon>
