@@ -66,6 +66,7 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(856, 681);
             this.tableLayoutPanel1.TabIndex = 153;
+            this.tableLayoutPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.tableLayoutPanel1_Paint);
             // 
             // Frm_MantenimientoAuditores
             // 
@@ -76,6 +77,7 @@
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Frm_MantenimientoAuditores";
             this.Text = "Mantenimiento Auditores";
+            this.Load += new System.EventHandler(this.Frm_MantenimientoAuditores_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);

@@ -32,6 +32,11 @@ namespace CapaVista.Mantenimientos
 
         private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
+          
+        }
+
+        private void Frm_MantenimientoDepartamentos_Load(object sender, EventArgs e)
+        {
             string aplicacionActiva = "1";
             navegador2.ObtenerIdUsuario(usuario);
             navegador2.botonesYPermisosInicial(usuario, aplicacionActiva);
