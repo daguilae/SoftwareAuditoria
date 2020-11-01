@@ -1,0 +1,6 @@
+C:\Users\ivan5\Desktop\GestionRequerimientos\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\ivan5\Desktop\GestionRequerimientos\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\ivan5\Desktop\GestionRequerimientos\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\ivan5\Desktop\GestionRequerimientos\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\ivan5\Desktop\GestionRequerimientos\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\ivan5\Desktop\GestionRequerimientos\CapaVista\obj\Debug\CapaVista.pdb
