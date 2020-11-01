@@ -1,8 +1,7 @@
-C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaLogica\bin\Debug\GestionRequerimientos.pdb
+C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaLogica\bin\Debug\GestionRequerimientosCC.dll
+C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaLogica\bin\Debug\GestionRequerimientosCC.pdb
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaLogica\obj\Debug\GestionRequerimientosCC.csprojAssemblyReference.cache
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaLogica\obj\Debug\GestionRequerimientosCC.csproj.CoreCompileInputs.cache
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaLogica\obj\Debug\GestionRequerimientosCC.csproj.CopyComplete
-C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaLogica\bin\Debug\GestionRequerimientosCC.dll
-C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaLogica\bin\Debug\GestionRequerimientosCC.pdb
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaLogica\obj\Debug\GestionRequerimientosCC.dll
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaLogica\obj\Debug\GestionRequerimientosCC.pdb

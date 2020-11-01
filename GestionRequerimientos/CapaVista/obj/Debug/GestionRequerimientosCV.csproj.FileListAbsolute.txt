@@ -1,3 +1,5 @@
+C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\GestionRequerimientosCV.dll
+C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\GestionRequerimientosCV.pdb
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\CapaDeDiseno.dll
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
@@ -25,7 +27,6 @@ C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\stdole.dll
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\CapaDatos_Consultas.dll
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\CapaDeDiseno.pdb
-C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\CapaLogica.pdb
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\CapaDeLogica.pdb
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\ConsultasInteligentes.pdb
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\CapaDeDatos.pdb
@@ -41,5 +42,3 @@ C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\obj\Debug\GestionRequerimientosCV.csproj.CopyComplete
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\obj\Debug\GestionRequerimientosCV.dll
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\obj\Debug\GestionRequerimientosCV.pdb
-C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\GestionRequerimientosCV.dll
-C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\GestionRequerimientosCV.pdb
