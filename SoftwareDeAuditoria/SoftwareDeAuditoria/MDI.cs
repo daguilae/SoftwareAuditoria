@@ -8,14 +8,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 //Gestion de Recursos
-using GestionDeRecursosCV.GestionDeRecursos;
-using GestionDeRecursosCV.Mantenimientos;
+using GestionRecursosCV.GestionDeRecursos;
+using GestionRecursosCV.Mantenimientos;
 //Gestion de Requerimientos
 using CapaVista.Mantenimientos;
 //Gestion de Reportes
 using GestionReportesCV;
 //Gestion de Proyectos
 using GestionProyecto;
+using GestionProyecto.Mantenimientos;
 //Gestion de Marcos de Trabajo
 using MarcosDeTrabajoCV;
 
@@ -37,37 +38,37 @@ namespace SoftwareDeAuditoria
 
         private void asignacionDeMarcoToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            Frm_asignarmarco marco = new Frm_asignarmarco();
+            Frm_asignarmarco marco = new Frm_asignarmarco("usu", "auditoriaSW");
             mostrarVentana(marco);
         }
 
         private void recursosToolStripMenuItem3_Click(object sender, EventArgs e)
         {
-            Frm_mantenimiento mantenimientoRecursos = new Frm_mantenimiento();
+            Frm_mantenimiento mantenimientoRecursos = new Frm_mantenimiento("usu", 2, "auditoriaSW");
             mostrarVentana(mantenimientoRecursos);
         }
 
         private void auditoresToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
-            Frm_MantenimientoAuditores auditores = new Frm_MantenimientoAuditores();
+            Frm_MantenimientoAuditores auditores = new Frm_MantenimientoAuditores("usu", "auditoriaSW");
             mostrarVentana(auditores);
         }
 
         private void contactosToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
-            Frm_MantenimientoContactos contactos = new Frm_MantenimientoContactos();
+            Frm_MantenimientoContactos contactos = new Frm_MantenimientoContactos("usu", "auditoriaSW");
             mostrarVentana(contactos);
         }
 
         private void empresasToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            Frm_MantenimientoEmpresa empresa = new Frm_MantenimientoEmpresa();
+            Frm_MantenimientoEmpresa empresa = new Frm_MantenimientoEmpresa("usu", "auditoriaSW");
             mostrarVentana(empresa);
         }
 
         private void departamentosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Frm_MantenimientoDepartamentos departamentos = new Frm_MantenimientoDepartamentos();
+            Frm_MantenimientoDepartamentos departamentos = new Frm_MantenimientoDepartamentos("usu", "auditoriaSW");
             mostrarVentana(departamentos);
         }
 
@@ -85,8 +86,6 @@ namespace SoftwareDeAuditoria
 
         private void registroDeMarcoToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            Frm_registrarmarco marco = new Frm_registrarmarco();
-            mostrarVentana(marco);
         }
 
         private void asignacionDeRecursosToolStripMenuItem1_Click(object sender, EventArgs e)
@@ -99,6 +98,42 @@ namespace SoftwareDeAuditoria
         {
             Frm_reportes reporte = new Frm_reportes();
             mostrarVentana(reporte);
+        }
+
+        private void tipoDeRecursoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frm_mantenimiento mantenimientoRecursos = new Frm_mantenimiento("usu", 3, "auditoriaSW");
+            mostrarVentana(mantenimientoRecursos);
+        }
+
+        private void instrumentosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frm_mantenimiento mantenimientoRecursos = new Frm_mantenimiento("usu", 1, "auditoriaSW");
+            mostrarVentana(mantenimientoRecursos);
+        }
+
+        private void marcosDeTrabajoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frm_registrarmarco marco = new Frm_registrarmarco();
+            mostrarVentana(marco);
+        }
+
+        private void tiposDeProcesosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frm_mantenimientotiposprocesos tiposProceso = new Frm_mantenimientotiposprocesos("usu", "auditoriaSW");
+            mostrarVentana(tiposProceso);
+        }
+
+        private void instrumentosToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            Frm_MantInstrumentos instrumentos = new Frm_MantInstrumentos("usu", "auditoriaSW");
+            mostrarVentana(instrumentos);
+        }
+
+        private void tipoEvaluacionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frm_MantTipodeevaluacion tipoEvaluacion = new Frm_MantTipodeevaluacion("usu", "auditoriaSW");
+            mostrarVentana(tipoEvaluacion);
         }
     }
 }

@@ -35,24 +35,26 @@
   <ItemGroup>
     <Reference Include="CapaDeDiseno, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>Y:\Google Drive\Bienestar S.A\Formación\DLLS\Navegador\CapaDeDiseno\bin\Debug\CapaDeDiseno.dll</HintPath>
+      <HintPath>..\..\..\GestionRecursos\(Personal)\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\bin\Debug\CapaDeDiseno.dll</HintPath>
     </Reference>
-    <Reference Include="GestionDeRecursosCV">
-      <HintPath>..\..\..\GestionRecursos\(Personal)\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\bin\Debug\GestionDeRecursosCV.dll</HintPath>
-    </Reference>
-    <Reference Include="GestionProyecto">
+    <Reference Include="GestionProyecto, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\GestionProyectos\(General)\SoftwareAuditoria\GestionProyecto\GestionProyecto\bin\Debug\GestionProyecto.exe</HintPath>
     </Reference>
-    <Reference Include="GestionReportesCV">
+    <Reference Include="GestionRecursosCV, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\GestionRecursos\(General)\SoftwareAuditoria\GestorDeRecursos\GestionDeRecursosCV\bin\Debug\GestionRecursosCV.dll</HintPath>
+    </Reference>
+    <Reference Include="GestionReportesCV, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\GestionReportes\(General)\SoftwareAuditoria\Gestion de Reportes\GestionReportesCV\bin\Debug\GestionReportesCV.dll</HintPath>
     </Reference>
-    <Reference Include="GestionRequerimientos">
-      <HintPath>..\..\..\GestionRequerimientos\(General)\SoftwareAuditoria\GestionRequerimientos\GestionRequerimientos\bin\Debug\GestionRequerimientos.dll</HintPath>
-    </Reference>
-    <Reference Include="GestionRequerimientosCV">
+    <Reference Include="GestionRequerimientosCV, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\GestionRequerimientos\(General)\SoftwareAuditoria\GestionRequerimientos\CapaVista\bin\Debug\GestionRequerimientosCV.dll</HintPath>
     </Reference>
-    <Reference Include="MarcosDeTrabajoCV">
+    <Reference Include="MarcosDeTrabajoCV, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\MarcosDeTrabajoCV.dll</HintPath>
     </Reference>
     <Reference Include="System" />
