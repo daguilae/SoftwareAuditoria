@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CapaDeDiseno">
-      <HintPath>..\..\Navegador\CapaDeDiseno\bin\Debug\CapaDeDiseno.dll</HintPath>
+      <HintPath>..\Navegador\CapaDeDiseno\bin\Debug\CapaDeDiseno.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -49,12 +49,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Conexion.cs" />
     <Compile Include="Frm_Evaluacion.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Frm_Evaluacion.Designer.cs">
       <DependentUpon>Frm_Evaluacion.cs</DependentUpon>
     </Compile>
+    <Compile Include="Logica.cs" />
+    <Compile Include="Sentencias.cs" />
     <None Include="InfoGeneral">
       <SubType>Form</SubType>
     </None>
@@ -72,6 +75,12 @@
     </Compile>
     <Compile Include="Mantenimientos\Frm_MantInstrumentos.Designer.cs">
       <DependentUpon>Frm_MantInstrumentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_MantRubrica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_MantRubrica.Designer.cs">
+      <DependentUpon>Frm_MantRubrica.cs</DependentUpon>
     </Compile>
     <Compile Include="Mantenimientos\Frm_MantTipodeevaluacion.cs">
       <SubType>Form</SubType>
@@ -92,6 +101,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Mantenimientos\Frm_MantInstrumentos.resx">
       <DependentUpon>Frm_MantInstrumentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_MantRubrica.resx">
+      <DependentUpon>Frm_MantRubrica.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Mantenimientos\Frm_MantTipodeevaluacion.resx">
       <DependentUpon>Frm_MantTipodeevaluacion.cs</DependentUpon>

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GestionProyecto.Mantenimientos;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,7 @@ namespace GestionProyecto
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frm_Evaluacion());
+            Application.Run(new Frm_MantInstrumentos("jose","123"));
         }
     }
 }
