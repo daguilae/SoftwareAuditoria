@@ -133,6 +133,7 @@ namespace SoftwareDeAuditoria
             Frm_asignarmarco marco = new Frm_asignarmarco("usu", "auditoriaSW");
             mostrarVentana(marco);
         }
+<<<<<<< HEAD
 
         private void rubricaToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -151,5 +152,7 @@ namespace SoftwareDeAuditoria
             Frm_registrarmarco registrarMarco = new Frm_registrarmarco();
             mostrarVentana(registrarMarco);
         }
+=======
+>>>>>>> 51fc71f262ae136582ccc663d36dc9f9d10f3cd9
     }
 }
