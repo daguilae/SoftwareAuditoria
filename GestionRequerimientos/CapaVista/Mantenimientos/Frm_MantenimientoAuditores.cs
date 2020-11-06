@@ -24,7 +24,7 @@ namespace CapaVista.Mantenimientos
             Color Hotel = Color.FromArgb(143, 208, 68);
             navegador2.asignarColorFondo(Hotel);
             navegador2.asignarColorFuente(Color.Black);
-            navegador2.asignarAyuda("1");
+            navegador2.asignarAyuda("16");
             navegador2.asignarTabla("auditores");
             navegador2.asignarNombreForm("Auditores");
         }

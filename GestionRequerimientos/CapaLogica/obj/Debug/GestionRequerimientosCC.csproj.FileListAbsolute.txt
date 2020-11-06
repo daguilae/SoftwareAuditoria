@@ -12,3 +12,10 @@ C:\Users\Angel Solares\Desktop\Software Auditoria\Repo\Prueba\GestionRequerimien
 C:\Users\Angel Solares\Desktop\Software Auditoria\Repo\Prueba\GestionRequerimientos\CapaLogica\obj\Debug\GestionRequerimientosCC.csproj.CopyComplete
 C:\Users\Angel Solares\Desktop\Software Auditoria\Repo\Prueba\GestionRequerimientos\CapaLogica\obj\Debug\GestionRequerimientosCC.dll
 C:\Users\Angel Solares\Desktop\Software Auditoria\Repo\Prueba\GestionRequerimientos\CapaLogica\obj\Debug\GestionRequerimientosCC.pdb
+C:\Users\juan_\Desktop\Mantenimiento auditores\SoftwareAuditoria\GestionRequerimientos\CapaLogica\bin\Debug\GestionRequerimientosCC.dll
+C:\Users\juan_\Desktop\Mantenimiento auditores\SoftwareAuditoria\GestionRequerimientos\CapaLogica\bin\Debug\GestionRequerimientosCC.pdb
+C:\Users\juan_\Desktop\Mantenimiento auditores\SoftwareAuditoria\GestionRequerimientos\CapaLogica\obj\Debug\GestionRequerimientosCC.csprojAssemblyReference.cache
+C:\Users\juan_\Desktop\Mantenimiento auditores\SoftwareAuditoria\GestionRequerimientos\CapaLogica\obj\Debug\GestionRequerimientosCC.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Desktop\Mantenimiento auditores\SoftwareAuditoria\GestionRequerimientos\CapaLogica\obj\Debug\GestionRequerimientosCC.csproj.CopyComplete
+C:\Users\juan_\Desktop\Mantenimiento auditores\SoftwareAuditoria\GestionRequerimientos\CapaLogica\obj\Debug\GestionRequerimientosCC.dll
+C:\Users\juan_\Desktop\Mantenimiento auditores\SoftwareAuditoria\GestionRequerimientos\CapaLogica\obj\Debug\GestionRequerimientosCC.pdb
