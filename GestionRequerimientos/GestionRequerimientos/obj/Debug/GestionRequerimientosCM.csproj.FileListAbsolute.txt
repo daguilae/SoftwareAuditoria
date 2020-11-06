@@ -3,3 +3,9 @@ C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\GestionRequerimientos\obj\Debug\GestionRequerimientosCM.csproj.CoreCompileInputs.cache
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\GestionRequerimientos\obj\Debug\GestionRequerimientosCM.dll
 C:\Users\ivan5\Desktop\SoftwareAuditoria\SoftwareAuditoria\GestionRequerimientos\GestionRequerimientos\obj\Debug\GestionRequerimientosCM.pdb
+C:\Users\Angel Solares\Desktop\Software Auditoria\Repo\Prueba\GestionRequerimientos\GestionRequerimientos\bin\Debug\GestionRequerimientosCM.dll
+C:\Users\Angel Solares\Desktop\Software Auditoria\Repo\Prueba\GestionRequerimientos\GestionRequerimientos\bin\Debug\GestionRequerimientosCM.pdb
+C:\Users\Angel Solares\Desktop\Software Auditoria\Repo\Prueba\GestionRequerimientos\GestionRequerimientos\obj\Debug\GestionRequerimientosCM.csprojAssemblyReference.cache
+C:\Users\Angel Solares\Desktop\Software Auditoria\Repo\Prueba\GestionRequerimientos\GestionRequerimientos\obj\Debug\GestionRequerimientosCM.csproj.CoreCompileInputs.cache
+C:\Users\Angel Solares\Desktop\Software Auditoria\Repo\Prueba\GestionRequerimientos\GestionRequerimientos\obj\Debug\GestionRequerimientosCM.dll
+C:\Users\Angel Solares\Desktop\Software Auditoria\Repo\Prueba\GestionRequerimientos\GestionRequerimientos\obj\Debug\GestionRequerimientosCM.pdb
