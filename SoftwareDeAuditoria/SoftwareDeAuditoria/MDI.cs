@@ -36,12 +36,6 @@ namespace SoftwareDeAuditoria
             form.Show();
         }
 
-        private void asignacionDeMarcoToolStripMenuItem1_Click(object sender, EventArgs e)
-        {
-            Frm_asignarmarco marco = new Frm_asignarmarco("usu", "auditoriaSW");
-            mostrarVentana(marco);
-        }
-
         private void recursosToolStripMenuItem3_Click(object sender, EventArgs e)
         {
             Frm_mantenimiento mantenimientoRecursos = new Frm_mantenimiento("usu", 2, "auditoriaSW");
@@ -114,7 +108,7 @@ namespace SoftwareDeAuditoria
 
         private void marcosDeTrabajoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Frm_registrarmarco marco = new Frm_registrarmarco();
+            Frm_marcosdetrabajo marco = new Frm_marcosdetrabajo("usu", "auditoriaSW");
             mostrarVentana(marco);
         }
 
@@ -134,6 +128,12 @@ namespace SoftwareDeAuditoria
         {
             Frm_MantTipodeevaluacion tipoEvaluacion = new Frm_MantTipodeevaluacion("usu", "auditoriaSW");
             mostrarVentana(tipoEvaluacion);
+        }
+
+        private void asignarMarcoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frm_asignarmarco marco = new Frm_asignarmarco("usu", "auditoriaSW");
+            mostrarVentana(marco);
         }
     }
 }
