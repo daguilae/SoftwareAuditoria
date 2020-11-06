@@ -39,7 +39,7 @@
     </Reference>
     <Reference Include="GestionProyecto, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\GestionProyectos\(General)\SoftwareAuditoria\GestionProyecto\GestionProyecto\bin\Debug\GestionProyecto.exe</HintPath>
+      <HintPath>..\..\..\GestionProyectos\(General)\SoftwareAuditoria\GestionProyecto\GestionProyecto\GestionProyecto\bin\Debug\GestionProyecto.dll</HintPath>
     </Reference>
     <Reference Include="GestionRecursosCV, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
