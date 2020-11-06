@@ -1,0 +1,18 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Ayudaauditores.chm
+Contents file=Ayudaauditores.hhc
+Default Window=Ayuda Auditores
+Default topic=Auditores.html
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+Ayuda Auditores=,"Ayudaauditores.hhc",,"Auditores.html","Auditores.html","Auditores.html",,"Auditores.html",,0x23520,,0x3046,,,,,,,,0
+
+
+[FILES]
+Auditores.html
+
+[INFOTYPES]
+
