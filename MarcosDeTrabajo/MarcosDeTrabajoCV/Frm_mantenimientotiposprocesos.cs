@@ -43,5 +43,10 @@ namespace MarcosDeTrabajoCV
             navegador1.botonesYPermisosInicial(usuario, aplicacionActiva);
             navegador1.ObtenerIdAplicacion(aplicacionActiva);
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Help.ShowHelp(this, "ayudaMarco/ayudasMarcoTrabajo.chm", "AyudaMantenimientoTiposProc.html");
+        }
     }
 }
