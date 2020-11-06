@@ -38,5 +38,10 @@ namespace MarcosDeTrabajoCV
             Nav_marcosdetrabajo.botonesYPermisosInicial(usuario, aplicacionActiva);
             Nav_marcosdetrabajo.ObtenerIdAplicacion(aplicacionActiva);
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Help.ShowHelp(this, "ayudaMarco/ayudasMarcoTrabajo.chm", "mantenimientoasignar.html");
+        }
     }
 }
