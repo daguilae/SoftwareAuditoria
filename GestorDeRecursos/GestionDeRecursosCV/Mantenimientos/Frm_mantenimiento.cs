@@ -68,5 +68,10 @@ namespace GestionRecursosCV.Mantenimientos
             Nav_Mantenimiento.botonesYPermisosInicial("MyUsuario", "1");
             Nav_Mantenimiento.ObtenerIdAplicacion("1");
         }
+
+        private void Frm_mantenimiento_HelpRequested(object sender, HelpEventArgs hlpevent)
+        {
+            Help.ShowHelp(this, "C:\\pruebas\\Ayudas\\Recursos\\ayudaRecursos.chm");
+        }
     }
 }

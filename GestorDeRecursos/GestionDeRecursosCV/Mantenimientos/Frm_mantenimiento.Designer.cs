@@ -146,9 +146,13 @@
             this.ClientSize = new System.Drawing.Size(993, 749);
             this.Controls.Add(this.Pnl_General);
             this.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.HelpButton = true;
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Frm_mantenimiento";
             this.Text = "Mantenimiento";
+            this.HelpRequested += new System.Windows.Forms.HelpEventHandler(this.Frm_mantenimiento_HelpRequested);
             this.Pnl_General.ResumeLayout(false);
             this.Tlp_General.ResumeLayout(false);
             this.Pnl_Titulo.ResumeLayout(false);
