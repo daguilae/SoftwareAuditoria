@@ -41,5 +41,10 @@ namespace MarcosDeTrabajoCV
         {
 
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Help.ShowHelp(this, "ayudaMarco/ayudasMarcoTrabajo.chm", "mantenimientomarcos.html");
+        }
     }
 }

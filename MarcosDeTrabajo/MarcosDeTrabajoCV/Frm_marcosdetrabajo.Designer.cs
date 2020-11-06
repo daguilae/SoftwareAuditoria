@@ -28,10 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_marcosdetrabajo));
             this.Nav_marcosdetrabajo = new CapaDeDiseno.Navegador();
             this.Pnl_marcosdetrabajo = new System.Windows.Forms.Panel();
             this.Lbl_titulo = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.Pnl_marcosdetrabajo.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // Nav_marcosdetrabajo
@@ -48,6 +51,7 @@
             // Pnl_marcosdetrabajo
             // 
             this.Pnl_marcosdetrabajo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(60)))), ((int)(((byte)(192)))));
+            this.Pnl_marcosdetrabajo.Controls.Add(this.pictureBox1);
             this.Pnl_marcosdetrabajo.Controls.Add(this.Lbl_titulo);
             this.Pnl_marcosdetrabajo.Dock = System.Windows.Forms.DockStyle.Top;
             this.Pnl_marcosdetrabajo.Location = new System.Drawing.Point(0, 0);
@@ -67,6 +71,17 @@
             this.Lbl_titulo.TabIndex = 0;
             this.Lbl_titulo.Text = "Marcos de Trabajo";
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(744, 5);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(61, 50);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 5;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
             // Frm_marcosdetrabajo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
@@ -82,6 +97,7 @@
             this.Load += new System.EventHandler(this.Frm_marcosdetrabajo_Load);
             this.Pnl_marcosdetrabajo.ResumeLayout(false);
             this.Pnl_marcosdetrabajo.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -91,5 +107,6 @@
         private CapaDeDiseno.Navegador Nav_marcosdetrabajo;
         private System.Windows.Forms.Panel Pnl_marcosdetrabajo;
         private System.Windows.Forms.Label Lbl_titulo;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
