@@ -16,12 +16,12 @@ C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo
 C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.csproj.CopyComplete
 C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.dll
 C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.pdb
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\bin\Debug\MarcosDeTrabajoCC.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\bin\Debug\MarcosDeTrabajoCC.pdb
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\bin\Debug\MarcosDeTrabajoCM.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\bin\Debug\MarcosDeTrabajoCM.pdb
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.csprojAssemblyReference.cache
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.csproj.CoreCompileInputs.cache
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.csproj.CopyComplete
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.pdb
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\bin\Debug\MarcosDeTrabajoCC.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\bin\Debug\MarcosDeTrabajoCC.pdb
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\bin\Debug\MarcosDeTrabajoCM.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\bin\Debug\MarcosDeTrabajoCM.pdb
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.csproj.CopyComplete
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCC\obj\Debug\MarcosDeTrabajoCC.pdb

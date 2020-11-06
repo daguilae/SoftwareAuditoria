@@ -55,49 +55,49 @@ C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo
 C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.csproj.CopyComplete
 C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.dll
 C:\Users\edgar\Documents\GitHub\Mantenimientos\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.pdb
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\MarcosDeTrabajoCV.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\MarcosDeTrabajoCV.pdb
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaDeDiseno.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.Windows.Forms.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\MarcosDeTrabajoCC.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaDeLogica.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\ConsultasInteligentes.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaDatos.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.Shared.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportSource.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\AxShockwaveFlashObjects.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaDeDatos.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaLogica_Consultas.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\ShockwaveFlashObjects.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaDatos_Consultas.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\stdole.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaDeDiseno.pdb
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\MarcosDeTrabajoCC.pdb
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaDeLogica.pdb
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\ConsultasInteligentes.pdb
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaDeDatos.pdb
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaLogica_Consultas.pdb
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaDatos_Consultas.pdb
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.csprojAssemblyReference.cache
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.Frm_asignarmarco.resources
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.Frm_mantenimientotiposprocesos.resources
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.Frm_registrarmarco.resources
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.csproj.GenerateResource.cache
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.csproj.CoreCompileInputs.cache
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.csproj.CopyComplete
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.dll
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.pdb
-C:\Users\gganp\Desktop\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.Frm_marcosdetrabajo.resources
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\MarcosDeTrabajoCV.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\MarcosDeTrabajoCV.pdb
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaDeDiseno.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.Windows.Forms.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\MarcosDeTrabajoCC.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaDeLogica.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\ConsultasInteligentes.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaDatos.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.Shared.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportSource.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\AxShockwaveFlashObjects.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaDeDatos.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaLogica_Consultas.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\ShockwaveFlashObjects.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaDatos_Consultas.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\stdole.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaDeDiseno.pdb
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\MarcosDeTrabajoCC.pdb
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaDeLogica.pdb
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\ConsultasInteligentes.pdb
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaDeDatos.pdb
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaLogica_Consultas.pdb
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\bin\Debug\CapaDatos_Consultas.pdb
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.Frm_asignarmarco.resources
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.Frm_mantenimientotiposprocesos.resources
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.Frm_marcosdetrabajo.resources
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.Frm_registrarmarco.resources
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.csproj.CopyComplete
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.dll
+\\Mac\Home\Documents\Univ\Sem 10\Auditoria\05 software\Software\(General)\GestionMarcoTrabajo\(General)\SoftwareAuditoria\MarcosDeTrabajo\MarcosDeTrabajoCV\obj\Debug\MarcosDeTrabajoCV.pdb
