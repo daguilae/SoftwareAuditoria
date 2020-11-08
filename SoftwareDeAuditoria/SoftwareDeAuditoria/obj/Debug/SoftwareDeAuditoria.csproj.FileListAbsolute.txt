@@ -109,3 +109,4 @@ C:\pruebas\(General)\SoftwareAuditoria\SoftwareDeAuditoria\SoftwareDeAuditoria\b
 C:\pruebas\(General)\SoftwareAuditoria\SoftwareDeAuditoria\SoftwareDeAuditoria\bin\Debug\GestionRecursosCM.dll
 C:\pruebas\(General)\SoftwareAuditoria\SoftwareDeAuditoria\SoftwareDeAuditoria\bin\Debug\GestionRecursosCV.pdb
 C:\pruebas\(General)\SoftwareAuditoria\SoftwareDeAuditoria\SoftwareDeAuditoria\bin\Debug\GestionRecursosCM.pdb
+C:\pruebas\(General)\SoftwareAuditoria\SoftwareDeAuditoria\SoftwareDeAuditoria\bin\Debug\GestionProyecto.dll
