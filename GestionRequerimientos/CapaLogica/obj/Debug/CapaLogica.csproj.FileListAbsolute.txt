@@ -1,0 +1,6 @@
+C:\Users\ivan5\Desktop\GestionRequerimientos\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\ivan5\Desktop\GestionRequerimientos\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\ivan5\Desktop\GestionRequerimientos\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\ivan5\Desktop\GestionRequerimientos\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\ivan5\Desktop\GestionRequerimientos\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\ivan5\Desktop\GestionRequerimientos\CapaLogica\obj\Debug\CapaLogica.pdb
